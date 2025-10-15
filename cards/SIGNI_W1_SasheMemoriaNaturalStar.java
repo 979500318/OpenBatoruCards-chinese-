@@ -1,0 +1,73 @@
+package open.batoru.data.cards;
+
+import open.batoru.core.Deck.DeckPosition;
+import open.batoru.core.gameplay.CardIndex;
+import open.batoru.core.gameplay.pickers.TargetFilter;
+import open.batoru.core.gameplay.pickers.TargetFilter.TargetHint;
+import open.batoru.data.Card;
+import open.batoru.data.CardConst.*;
+import open.batoru.data.ability.cost.DiscardCost;
+
+public final class SIGNI_W1_SasheMemoriaNaturalStar extends Card {
+    
+    public SIGNI_W1_SasheMemoriaNaturalStar()
+    {
+        setImageSets("WXDi-P06-044", "WXDi-P06-044P");
+        
+        setOriginalName("羅星　サシェ//メモリア");
+        setAltNames("ラセイサシェメモリア Rasei Sashe Memoria");
+        setDescription("jp",
+                "@E @[手札から＜宇宙＞のシグニを１枚捨てる]@：あなたのデッキの上からカードを５枚見る。その中から＜宇宙＞のシグニ１枚を公開し手札に加え、残りを好きな順番でデッキの一番下に置く。"
+        );
+        
+        setName("en", "Sashe//Memoria, Natural Planet");
+        setDescription("en",
+                "@E @[Discard a <<Cosmos>> SIGNI]@: Look at the top five cards of your deck. Reveal a <<Cosmos>> SIGNI from among them and add it to your hand. Put the rest on the bottom of your deck in any order."
+        );
+        
+        setName("en_fan", "Sashe//Memoria, Natural Star");
+        setDescription("en_fan",
+                "@E @[Discard 1 <<Space>> SIGNI from your hand]@: Look at the top 5 cards of your deck. Reveal 1 <<Space>> SIGNI from among them, and add it to your hand, and put the rest on the bottom of your deck in any order."
+        );
+        
+		setName("zh_simplified", "罗星 莎榭//回忆");
+        setDescription("zh_simplified", 
+                "@E 从手牌把<<宇宙>>精灵1张舍弃:从你的牌组上面看5张牌。从中把<<宇宙>>精灵1张公开加入手牌，剩下的任意顺序放置到牌组最下面。\n"
+        );
+
+        setType(CardType.SIGNI);
+        setColor(CardColor.WHITE);
+        setSIGNIClass(CardSIGNIClassGeneration.PERFORMER, CardSIGNIClass.SPACE);
+        setLevel(1);
+        setPower(2000);
+        
+        setPlayFormat(PlayFormat.KEY, PlayFormat.DIVA, PlayFormat.ENGLISH, PlayFormat.CHINESE);
+    }
+    
+    @Override
+    public IndexedInstance newIndexedInstance(int cardId) { return new IndexedInstance(cardId); }
+    public class IndexedInstance extends Card.IndexedInstance
+    {
+        public IndexedInstance(int cardId)
+        {
+            super(cardId);
+            
+            registerEnterAbility(new DiscardCost(new TargetFilter().SIGNI().withClass(CardSIGNIClass.SPACE)), this::onEnterEff);
+        }
+        
+        private void onEnterEff()
+        {
+            look(5);
+            
+            CardIndex cardIndex = playerTargetCard(0,1, new TargetFilter(TargetHint.HAND).own().SIGNI().withClass(CardSIGNIClass.SPACE).fromLooked()).get();
+            reveal(cardIndex);
+            addToHand(cardIndex);
+            
+            while(getLookedCount() > 0)
+            {
+                cardIndex = playerTargetCard(new TargetFilter(TargetHint.BOTTOM).own().fromLooked()).get();
+                returnToDeck(cardIndex, DeckPosition.BOTTOM);
+            }
+        }
+    }
+}
