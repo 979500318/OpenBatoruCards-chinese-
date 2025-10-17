@@ -15,7 +15,7 @@ public final class SIGNI_K1_CodeArtMOuse extends Card {
 
     public SIGNI_K1_CodeArtMOuse()
     {
-        setImageSets("WX25-P2-100");
+        setImageSets("WX25-P2-100", "SPDi45-06","SPDi45-06P");
 
         setOriginalName("コードアート　Mウス");
         setAltNames("コードアートエムウス Koodo Aato Emu Usu Mouse");

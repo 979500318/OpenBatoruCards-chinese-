@@ -13,7 +13,7 @@ public final class SIGNI_G2_HulaHoopSecondPlay extends Card {
 
     public SIGNI_G2_HulaHoopSecondPlay()
     {
-        setImageSets("WX25-P2-093");
+        setImageSets("WX25-P2-093", "SPDi45-04","SPDi45-04P");
 
         setOriginalName("弍ノ遊　フラフープ");
         setAltNames("ニノユウフラフープ Ni no Yuu Furafuupu Hulahoop");

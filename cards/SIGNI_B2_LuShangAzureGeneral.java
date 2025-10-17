@@ -15,7 +15,7 @@ public final class SIGNI_B2_LuShangAzureGeneral extends Card {
 
     public SIGNI_B2_LuShangAzureGeneral()
     {
-        setImageSets("WX25-P2-085");
+        setImageSets("WX25-P2-085", "SPDi45-03","SPDi45-03P");
 
         setOriginalName("蒼将　タイコウボウ");
         setAltNames("ソウショウタイコウボウ Soushou Taikoubou");

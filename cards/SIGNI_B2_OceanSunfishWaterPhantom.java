@@ -1,6 +1,7 @@
 package open.batoru.data.cards;
 
 import open.batoru.core.gameplay.CardIndex;
+import open.batoru.core.gameplay.GameConst.CardStateFlag;
 import open.batoru.core.gameplay.GameConst.GameEventId;
 import open.batoru.core.gameplay.GameConst.GamePhase;
 import open.batoru.core.gameplay.pickers.TargetFilter;
@@ -66,7 +67,7 @@ public final class SIGNI_B2_OceanSunfishWaterPhantom extends Card {
         }
         private void onAutoEff(CardIndex caller)
         {
-            if(getCardIndex().isSIGNIOnField() && playerChoiceActivate())
+            if(getCardIndex().isSIGNIOnField() && !isState(CardStateFlag.DOWNED) && playerChoiceActivate())
             {
                 down();
                 

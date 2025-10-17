@@ -16,7 +16,7 @@ public final class SIGNI_R2_CodeArtYAkisobaFryer extends Card {
 
     public SIGNI_R2_CodeArtYAkisobaFryer()
     {
-        setImageSets("WX25-P2-076");
+        setImageSets("WX25-P2-076", "SPDi45-02","SPDi45-02P");
 
         setOriginalName("コードアート　Yキソバキ");
         setAltNames("コードアートワイキソバキ Koodo Aato Wai kisobaki Yakisoba");

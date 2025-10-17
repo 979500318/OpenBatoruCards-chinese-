@@ -77,8 +77,11 @@ public final class SIGNI_G2_MinoriYasumori extends Card {
             DataTable<CardIndex> data = playerTargetCard(0,4, new TargetFilter(TargetHint.TRASH).own().withClass(CardSIGNIClass.BLUE_ARCHIVE).fromEner());
             int numTrashed = trash(data);
             
-            CardIndex target = playerTargetCard(new TargetFilter(TargetHint.BANISH).OP().SIGNI().withPower(0,numTrashed * 4000)).get();
-            banish(target);
+            if(numTrashed > 0)
+            {
+                CardIndex target = playerTargetCard(new TargetFilter(TargetHint.BANISH).OP().SIGNI().withPower(0,numTrashed * 4000)).get();
+                banish(target);
+            }
         }
 
         private ConditionState onAutoEff2Cond(CardIndex caller)

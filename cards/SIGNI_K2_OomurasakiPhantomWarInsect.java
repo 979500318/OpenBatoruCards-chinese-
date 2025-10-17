@@ -13,7 +13,7 @@ public final class SIGNI_K2_OomurasakiPhantomWarInsect extends Card {
 
     public SIGNI_K2_OomurasakiPhantomWarInsect()
     {
-        setImageSets("WX25-P2-102");
+        setImageSets("WX25-P2-102", "SPDi45-05","SPDi45-05P");
 
         setOriginalName("幻闘蟲　オオムラサキ");
         setAltNames("ゲントウチュウオオムラサキ Gentouchuu Oomurasaki");

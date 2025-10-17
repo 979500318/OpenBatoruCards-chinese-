@@ -79,7 +79,7 @@ public final class LRIGA_R2_CarnivalSelection extends Card {
             switch(playerChoiceMode())
             {
                 case 1 -> draw(1);
-                case 1<<1 -> enerCharge(2);
+                case 1<<1 -> enerCharge(1);
                 case 1<<2 -> {
                     CardIndex target = playerTargetCard(new TargetFilter(TargetHint.TRASH).OP().SIGNI()).get();
                     trash(target);

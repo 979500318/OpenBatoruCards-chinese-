@@ -14,12 +14,13 @@ import open.batoru.data.ability.cost.EnerCost;
 import open.batoru.data.ability.modifiers.AbilityGainModifier;
 import open.batoru.data.ability.modifiers.PowerModifier;
 import open.batoru.data.ability.stock.StockAbilityShadow;
+import open.batoru.data.CardDataImageSet.Mask;
 
 public final class SIGNI_G3_BangDissonaVerdantDevilPrincess extends Card {
 
     public SIGNI_G3_BangDissonaVerdantDevilPrincess()
     {
-        setImageSets("WXDi-P12-051", "WXDi-P12-051P", "SPDi02-18");
+        setImageSets("WXDi-P12-051", "WXDi-P12-051P", "SPDi02-18",Mask.IGNORE+"SPDi02-29");
 
         setOriginalName("翠魔姫　バン//ディソナ");
         setAltNames("スイマキバンディソナ Suimaki Ban Disona");

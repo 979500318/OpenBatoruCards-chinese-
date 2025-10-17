@@ -16,7 +16,7 @@ public final class SIGNI_W2_AldebaranNaturalWarStar extends Card {
 
     public SIGNI_W2_AldebaranNaturalWarStar()
     {
-        setImageSets("WX25-P2-068");
+        setImageSets("WX25-P2-068", "SPDi45-01","SPDi45-01P");
 
         setOriginalName("羅闘星　アルデバラン");
         setAltNames("ラトウセイアルデバラン Ratousei Arudebaran");
