@@ -32,7 +32,7 @@ public final class SIGNI_G1_StinkBugPhantomInsect extends Card {
         setLevel(1);
         setPower(2000);
 
-        setPlayFormat(PlayFormat.KEY, PlayFormat.DIVA, PlayFormat.ENGLISH, PlayFormat.CHINESE);
+        setPlayFormat(PlayFormat.KEY, PlayFormat.DIVA);
     }
 
     @Override

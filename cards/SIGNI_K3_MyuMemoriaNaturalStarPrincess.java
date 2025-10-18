@@ -21,7 +21,7 @@ public final class SIGNI_K3_MyuMemoriaNaturalStarPrincess extends Card {
     
     public SIGNI_K3_MyuMemoriaNaturalStarPrincess()
     {
-        setImageSets("WXDi-P10-043", "WXDi-P10-043P", "SPDi10-11");
+        setImageSets("WXDi-P10-043", "WXDi-P10-043P","WX25-P2-117", "SPDi10-11");
         
         setOriginalName("羅星姫　ミュウ//メモリア");
         setAltNames("ラセイキミュウメモリア Raseiki Myuu Memoria");

@@ -18,7 +18,7 @@ public final class SIGNI_BK3_CodeHeartPirulukAPEXMemoria extends Card {
 
     public SIGNI_BK3_CodeHeartPirulukAPEXMemoria()
     {
-        setImageSets("WXDi-P09-048", "WXDi-P09-048P");
+        setImageSets("WXDi-P09-048", "WXDi-P09-048P","WX25-P2-118");
 
         setOriginalName("コードハート　ピルルクＡＰＥＸ//メモリア");
         setAltNames("コードハートピルルクアペクスメモリア Koodo Haato Piruruku Apekusu Memoria");

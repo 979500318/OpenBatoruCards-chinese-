@@ -33,13 +33,13 @@ public final class SIGNI_K1_PillbugPhantomInsect extends Card {
         setOriginalName("幻蟲　ダンゴムシ");
         setAltNames("ゲンチュウダンゴムシ Genchuu Dangomushi");
         setDescription("jp",
-                "@E %X @[このシグニを場からトラッシュに置く]@：あなたのトラッシュからレベル２以上の＜凶蟲＞のシグニ１枚を対象とし、それを場に出す。" +
+                "@A %X @[このシグニを場からトラッシュに置く]@：あなたのトラッシュからレベル２以上の＜凶蟲＞のシグニ１枚を対象とし、それを場に出す。" +
                 "~#：このターン、次にあなたがダメージを受ける場合、代わりにあなたのデッキの上からカードを３枚トラッシュに置く。"
         );
 
         setName("en", "Pillbug, Phantom Insect");
         setDescription("en",
-                "@E %X @[Put this SIGNI from the field into the trash]@: Target 1 level 2 or higher <<Misfortune Insect>> SIGNI from your trash, and put it onto the field." +
+                "@A %X @[Put this SIGNI from the field into the trash]@: Target 1 level 2 or higher <<Misfortune Insect>> SIGNI from your trash, and put it onto the field." +
                 "~#This turn, the next time you would be damaged, instead put the top 3 cards of your deck into the trash."
         );
 
@@ -68,12 +68,12 @@ public final class SIGNI_K1_PillbugPhantomInsect extends Card {
         {
             super(cardId);
 
-            registerEnterAbility(new AbilityCostList(new EnerCost(Cost.colorless(1)), new TrashCost()), this::onEnterEff);
+            registerActionAbility(new AbilityCostList(new EnerCost(Cost.colorless(1)), new TrashCost()), this::onActionEff);
 
             registerLifeBurstAbility(this::onLifeBurstEff);
         }
         
-        private void onEnterEff()
+        private void onActionEff()
         {
             CardIndex target = playerTargetCard(new TargetFilter(TargetHint.FIELD).own().SIGNI().withLevel(2,0).withClass(CardSIGNIClass.MISFORTUNE_INSECT).fromTrash().playable()).get();
             putOnField(target);

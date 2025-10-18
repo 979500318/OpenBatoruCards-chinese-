@@ -41,7 +41,7 @@ public final class SIGNI_B2_CodeAntiWaterWheel extends Card {
         setLevel(2);
         setPower(8000);
 
-        setPlayFormat(PlayFormat.KEY, PlayFormat.DIVA, PlayFormat.ENGLISH, PlayFormat.CHINESE);
+        setPlayFormat(PlayFormat.KEY, PlayFormat.DIVA);
     }
 
     @Override
