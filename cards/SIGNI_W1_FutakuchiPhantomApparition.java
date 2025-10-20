@@ -33,7 +33,7 @@ public final class SIGNI_W1_FutakuchiPhantomApparition extends Card {
 
 		setName("zh_simplified", "幻怪 二口女");
         setDescription("zh_simplified", 
-                "@A 竖直状态的分身1只#D直到回合结束时为止，与这个方法#D的分身相同等级的对战对手的全部的精灵的能力失去。" +
+                "@A 竖直状态的分身1只横置:直到回合结束时为止，与这个方法横置的分身相同等级的对战对手的全部的精灵的能力失去。" +
                 "~#以下选1种。\n" +
                 "$$1 直到回合结束时为止，对战对手的全部的精灵的能力失去。\n" +
                 "$$2 抽2张牌。\n"

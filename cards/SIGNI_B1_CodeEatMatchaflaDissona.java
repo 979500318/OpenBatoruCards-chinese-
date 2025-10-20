@@ -43,7 +43,7 @@ public final class SIGNI_B1_CodeEatMatchaflaDissona extends Card {
         setDescription("zh_simplified", 
                 "@U $T1 当你把#S的牌1张舍弃时，对战对手的精灵1只作为对象，将其冻结。\n" +
                 "@E 从手牌把#S的牌1张舍弃:抽1张牌。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST | CardFlag.DISSONA);

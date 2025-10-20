@@ -49,7 +49,7 @@ public final class SIGNI_W3_DonaFessonePhantomApparitionPrincess extends Card {
         setDescription("zh_simplified", 
                 "@C :对战对手的回合期间，这只精灵在觉醒状态时，得到[[暗影]]。\n" +
                 "@U :当这只精灵攻击时，从你的废弃区把精灵1张作为对象，可以支付%X %X。这样做的场合，将其加入手牌。\n" +
-                "@E 竖直状态的分身2只#D:这只精灵觉醒。\n" +
+                "@E 竖直状态的分身2只横置:这只精灵觉醒。\n" +
                 "@A $T1 #C #C:抽1张牌。\n"
         );
 

@@ -43,8 +43,8 @@ public final class PIECE_X_AllOutBattle extends Card {
 		setName("zh_simplified", "全力战斗");
         setDescription("zh_simplified", 
                 "直到回合结束时为止，你的全部的分身得到以下的能力。\n" +
-                "@>@A $T1 #D:持有与这只分身共通颜色的对战对手的精灵1只作为对象，将其破坏。\n" +
-                "@A $T1 #D抽1张牌或[[能量填充1]]。@@\n"
+                "@>@A $T1 横置:持有与这只分身共通颜色的对战对手的精灵1只作为对象，将其破坏。\n" +
+                "@A $T1 :横置抽1张牌或[[能量填充1]]。@@\n"
         );
 
         setType(CardType.PIECE);

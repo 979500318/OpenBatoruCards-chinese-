@@ -48,7 +48,7 @@ public final class SIGNI_W3_FionnMacCumhaillHolyGeneral extends Card {
 
 		setName("zh_simplified", "圣将 芬恩·麦克库尔");
         setDescription("zh_simplified", 
-                "@U 你的回合结束时，可以把竖直状态的这只精灵#D。这样做的场合，从以下的2种选1种。\n" +
+                "@U :你的回合结束时，可以把竖直状态的这只精灵横置。这样做的场合，从以下的2种选1种。\n" +
                 "$$1 对战对手的精灵1只作为对象，将其放置到废弃区。\n" +
                 "$$2 抽1张牌。" +
                 "~#以下选1种。\n" +

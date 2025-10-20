@@ -39,7 +39,7 @@ public final class ARTS_B_AzureWish extends Card {
 		setName("zh_simplified", "碧蓝·愿望");
         setDescription("zh_simplified", 
                 "这张必杀使用时，可以从你的分身牌组把蓝色的必杀1张放置到分身废弃区。这样做的场合，这张必杀的使用费用减%B %B %B。\n" +
-                "等级的合计在5以下的对战对手的精灵2只最多作为对象，将这些#D。\n"
+                "等级的合计在5以下的对战对手的精灵2只最多作为对象，将这些横置。\n"
         );
 
         setType(CardType.ARTS);

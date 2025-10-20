@@ -29,7 +29,7 @@ public final class SIGNI_R1_PanjanSmallGun extends Card {
 
 		setName("zh_simplified", "小炮 潘加朱姆火箭车");
         setDescription("zh_simplified", 
-                "@E 竖直状态的分身1只#D持有与这个方法#D的分身共通颜色的对战对手的力量3000以下的精灵1只作为对象，将其破坏。" +
+                "@E 竖直状态的分身1只横置:持有与这个方法横置的分身共通颜色的对战对手的力量3000以下的精灵1只作为对象，将其破坏。" +
                 "~#对战对手的力量8000以下的精灵1只作为对象，将其破坏。\n"
         );
 

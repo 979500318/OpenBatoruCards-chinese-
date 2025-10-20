@@ -40,7 +40,7 @@ public final class SIGNI_B1_BenitoiteNaturalStone extends Card {
 		setName("zh_simplified", "罗石 蓝锥石");
         setDescription("zh_simplified", 
                 "@U $T1 :当在抽牌阶段以外你抽1张牌时，可以把手牌1张舍弃。这样做的场合，抽1张牌。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

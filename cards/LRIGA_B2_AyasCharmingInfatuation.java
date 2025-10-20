@@ -37,8 +37,8 @@ public final class LRIGA_B2_AyasCharmingInfatuation extends Card {
 
 		setName("zh_simplified", "亚弥的魅惑！");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵2只最多作为对象，将这些#D。\n" +
-                "@E %X %X %X %X对战对手的#D状态的精灵1只作为对象，将其放置到牌组最下面。\n" +
+                "@E :对战对手的精灵2只最多作为对象，将这些横置。\n" +
+                "@E %X %X %X %X:对战对手的横置状态的精灵1只作为对象，将其放置到牌组最下面。\n" +
                 "（@E能力的:的左侧有费用。则可以选择不把费用支付，而不发动）\n"
         );
 

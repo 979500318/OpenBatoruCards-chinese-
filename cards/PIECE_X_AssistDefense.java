@@ -39,7 +39,7 @@ public final class PIECE_X_AssistDefense extends Card {
 
 		setName("zh_simplified", "支援·防御");
         setDescription("zh_simplified", 
-                "这个回合，你受到伤害的场合，作为替代，可以把你的等级1以上的竖直状态的支援分身2只#D。\n"
+                "这个回合，你受到伤害的场合，作为替代，可以把你的等级1以上的竖直状态的支援分身2只横置。\n"
         );
 
         setType(CardType.PIECE);

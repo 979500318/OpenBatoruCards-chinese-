@@ -45,7 +45,7 @@ public final class PIECE_B_CantStopPretty extends Card {
 		setName("zh_simplified", "Can’t stop Pretty!");
         setDescription("zh_simplified", 
                 "这场游戏期间，你的核心分身得到以下的能力。（成长后的新的核心分身依然得到能力）\n" +
-                "@>@A 主要阶段:攻击阶段@[超越 4]@（从你的分身的下面把牌合计4张放置到分身废弃区）对战对手的精灵1只作为对象，如果对战对手不把手牌3张舍弃，那么将其#D。@@\n"
+                "@>@A 主要阶段:攻击阶段@[超越 4]@（从你的分身的下面把牌合计4张放置到分身废弃区）对战对手的精灵1只作为对象，如果对战对手不把手牌3张舍弃，那么将其横置。@@\n"
         );
 
         setType(CardType.PIECE);

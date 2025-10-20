@@ -27,7 +27,7 @@ public final class SIGNI_G1_BernoulliVerdantWisdom extends Card {
 
 		setName("zh_simplified", "翠英 伯努利");
         setDescription("zh_simplified", 
-                "@A 竖直状态的分身1只#D:直到下一个对战对手的回合结束时为止，这只精灵的力量+3000。" +
+                "@A 竖直状态的分身1只横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+3000。" +
                 "~#[[能量填充1]]。这个回合，下一次你因为分身受到伤害的场合，作为替代，不会受到伤害。\n"
         );
 

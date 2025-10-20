@@ -28,7 +28,7 @@ public final class SIGNI_B1_LadySunAzureGeneral extends Card {
 		setName("zh_simplified", "苍将 孙尚香");
         setDescription("zh_simplified", 
                 "@E :对战对手的精灵1只作为对象，将其冻结。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

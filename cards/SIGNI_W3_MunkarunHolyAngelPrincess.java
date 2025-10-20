@@ -39,7 +39,7 @@ public final class SIGNI_W3_MunkarunHolyAngelPrincess extends Card {
 		setName("zh_simplified", "圣天姬 孟凯尔");
         setDescription("zh_simplified", 
                 "@U $TP $T1 :当你的<<天使>>精灵1只离场时，你的场上有《永らえし冒険者タウィル＝トレ》的场合，从你的牌组上面看3张牌。从中把等级2以下的<<天使>>精灵1张出场，剩下的任意顺序放置到牌组最下面。那只精灵的@E能力不能发动。\n" +
-                "@A #D:从你的牌组上面看3张牌。从中把<<天使>>精灵1张出场，剩下的任意顺序放置到牌组最下面。\n"
+                "@A 横置:从你的牌组上面看3张牌。从中把<<天使>>精灵1张出场，剩下的任意顺序放置到牌组最下面。\n"
         );
 
         setType(CardType.SIGNI);

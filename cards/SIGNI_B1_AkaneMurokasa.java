@@ -43,8 +43,8 @@ public final class SIGNI_B1_AkaneMurokasa extends Card {
 		setName("zh_simplified", "室笠茜");
         setDescription("zh_simplified", 
                 "@E 从手牌把<<ブルアカ>>牌2张最多舍弃:依据这个方法舍弃的牌的数量，每有1张就抽1张牌。\n" +
-                "~{{U你的攻击阶段开始时，可以把竖直状态的这只精灵#D。这样做的场合，抽1张牌。@@" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~{{U:你的攻击阶段开始时，可以把竖直状态的这只精灵横置。这样做的场合，抽1张牌。@@" +
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

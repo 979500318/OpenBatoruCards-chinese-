@@ -32,7 +32,7 @@ public final class SIGNI_B1_VinylPoolFirstPlay extends Card {
 
 		setName("zh_simplified", "壹之游 嬉水池");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段期间，当这只精灵离场时，可以从你的手牌把等级1的<<遊具>>精灵1张以#D状态出场。那只精灵的@E能力不能发动。\n"
+                "@U 你的攻击阶段期间，当这只精灵离场时，可以从你的手牌把等级1的<<遊具>>精灵1张以横置状态出场。那只精灵的@E能力不能发动。\n"
         );
 
         setType(CardType.SIGNI);

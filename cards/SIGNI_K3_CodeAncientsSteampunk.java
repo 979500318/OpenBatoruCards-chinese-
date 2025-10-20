@@ -43,7 +43,7 @@ public final class SIGNI_K3_CodeAncientsSteampunk extends Card {
 		setName("zh_simplified", "古神代号 蒸汽朋克");
         setDescription("zh_simplified", 
                 "@U $T1 :你的回合期间，当从你的分身1只的下面把1张牌移动时，对战对手的精灵1只作为对象，可以支付%X。这样做的场合，直到回合结束时为止，其的力量-8000。\n" +
-                "@A 竖直状态的等级2的分身2只#D:这张牌从废弃区出场。\n"
+                "@A 竖直状态的等级2的分身2只横置:这张牌从废弃区出场。\n"
         );
 
         setType(CardType.SIGNI);

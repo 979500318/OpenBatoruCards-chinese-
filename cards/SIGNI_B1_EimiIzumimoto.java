@@ -42,7 +42,7 @@ public final class SIGNI_B1_EimiIzumimoto extends Card {
         setDescription("zh_simplified", 
                 "@U :你的回合结束时，可以从你的手牌把<<ブルアカ>>牌3张最多公开。直到下一个对战对手的回合结束时为止，这只精灵的力量依据这个方法公开的牌的数量，每有1张就+2000。\n" +
                 "~{{C:这只精灵的力量+4000。@@" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

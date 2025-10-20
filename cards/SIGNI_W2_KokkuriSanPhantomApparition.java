@@ -45,7 +45,7 @@ public final class SIGNI_W2_KokkuriSanPhantomApparition extends Card {
 		setName("zh_simplified", "幻怪 狐狗狸");
         setDescription("zh_simplified", 
                 "@A 这只精灵从场上放置到废弃区:你的白色的精灵1只作为对象，直到下一个对战对手的回合结束时为止，其得到\n" +
-                "@>@U 当这只精灵被破坏时，这张精灵从能量区以#D状态出场。@@" +
+                "@>@U :当这只精灵被破坏时，这张精灵从能量区以横置状态出场。@@" +
                 "~#抽1张牌。这个回合，你的手牌的精灵得到#G。（持有#G的精灵得到[[防御]]）\n"
         );
 

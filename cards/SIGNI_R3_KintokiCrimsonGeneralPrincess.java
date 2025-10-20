@@ -46,7 +46,7 @@ public final class SIGNI_R3_KintokiCrimsonGeneralPrincess extends Card {
         
 		setName("zh_simplified", "红将姬 金时");
         setDescription("zh_simplified", 
-                "=H黑色的分身1只（当这只精灵出场时，如果不把你的竖直状态的黑色的分身1只#D，那么将此牌#D）\n" +
+                "=H黑色的分身1只（当这只精灵出场时，如果不把你的竖直状态的黑色的分身1只横置，那么将此牌横置）\n" +
                 "@U :你的攻击阶段开始时，你的场上有[[灵魂]]且对战对手的能量区的牌在2张以上的场合，对战对手从自己的能量区选1张牌放置到废弃区。\n" +
                 "@E %R%K:直到回合结束时为止，这只精灵得到[[暗杀]]。\n"
         );

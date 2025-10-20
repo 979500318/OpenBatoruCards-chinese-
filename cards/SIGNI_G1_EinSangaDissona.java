@@ -37,7 +37,7 @@ public final class SIGNI_G1_EinSangaDissona extends Card {
 		setName("zh_simplified", "EINS=山河//失调");
         setDescription("zh_simplified", 
                 "@C :你的场上的精灵持有颜色在合计3种类以上时，这只精灵的力量+4000。\n" +
-                "@A #D从你的能量区把#S的精灵1张作为对象，将其出场。\n"
+                "@A :横置从你的能量区把#S的精灵1张作为对象，将其出场。\n"
         );
 
         setCardFlags(CardFlag.DISSONA);

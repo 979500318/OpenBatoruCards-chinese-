@@ -28,7 +28,7 @@ public final class ARTS_BG_ButterflyEffect extends Card {
 
 		setName("zh_simplified", "化蝶·效应");
         setDescription("zh_simplified", 
-                "对战对手的分身1只作为对象，将其#D。这个回合，下一次你因为持有比其的等级低的对战对手的精灵受到伤害的场合，作为替代，不会受到伤害。\n"
+                "对战对手的分身1只作为对象，将其横置。这个回合，下一次你因为持有比其的等级低的对战对手的精灵受到伤害的场合，作为替代，不会受到伤害。\n"
         );
 
         setType(CardType.ARTS);

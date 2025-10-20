@@ -33,7 +33,7 @@ public final class SIGNI_K1_ForasWickedDevil extends Card {
 		setName("zh_simplified", "凶魔 佛拉士");
         setDescription("zh_simplified", 
                 "@U :当这只精灵因为费用或效果从场上放置到废弃区时，从你的废弃区把<<悪魔>>精灵1张作为对象，可以支付%K。这样做的场合，将其加入手牌。\n" +
-                "@A #D:从你的牌组上面把3张牌放置到废弃区。\n"
+                "@A 横置:从你的牌组上面把3张牌放置到废弃区。\n"
         );
 
         setType(CardType.SIGNI);

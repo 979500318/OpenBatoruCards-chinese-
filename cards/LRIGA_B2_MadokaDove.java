@@ -35,7 +35,7 @@ public final class LRIGA_B2_MadokaDove extends Card {
         
 		setName("zh_simplified", "円//温顺");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵1只作为对象，将其#D。抽1张牌。\n" +
+                "@E :对战对手的精灵1只作为对象，将其横置。抽1张牌。\n" +
                 "@E %B:不看对战对手的手牌选1张，舍弃。\n"
         );
 

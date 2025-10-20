@@ -36,7 +36,7 @@ public final class SIGNI_B2_EldoraDissonaWaterPhantom extends Card {
 
 		setName("zh_simplified", "幻水 艾尔德拉//失调");
         setDescription("zh_simplified", 
-                "@A %B#D:对战对手的冻结状态的力量3000以下的精灵1只作为对象，将其放置到牌组最下面。\n"
+                "@A %B横置:对战对手的冻结状态的力量3000以下的精灵1只作为对象，将其放置到牌组最下面。\n"
         );
 
         setCardFlags(CardFlag.DISSONA);

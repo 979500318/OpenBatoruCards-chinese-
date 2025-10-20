@@ -28,7 +28,7 @@ public final class LRIGA_B2_UmrOutsider extends Card {
         
 		setName("zh_simplified", "乌姆尔=局外");
         setDescription("zh_simplified", 
-                "@E 对战对手的全部的精灵#D。\n"
+                "@E :对战对手的全部的精灵横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

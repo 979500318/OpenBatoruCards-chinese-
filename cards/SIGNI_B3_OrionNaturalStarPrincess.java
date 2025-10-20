@@ -59,7 +59,7 @@ public final class SIGNI_B3_OrionNaturalStarPrincess extends Card {
                 "@C :对战对手的回合期间，对战对手的精灵离场的场合，作为替代，放置到废弃区。\n" +
                 "@U :对战对手的回合结束时，抽1张牌。\n" +
                 "@A 从手牌把等级1的精灵1张舍弃:对战对手的全部的精灵冻结。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

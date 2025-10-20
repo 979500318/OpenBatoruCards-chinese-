@@ -43,7 +43,7 @@ public final class SIGNI_B3_MikomikoMemoriaNaturalBacteriaPrincess extends Card 
 		setName("zh_simplified", "罗菌姬 美琴琴//回忆");
         setDescription("zh_simplified", 
                 "@C :这只精灵在觉醒状态时，这只精灵的力量+3000，这只精灵得到\n" +
-                "@>@U 当这只精灵被破坏时，如果对战对手不把手牌1张舍弃，那么这张精灵从能量区以#D状态出场。@@\n" +
+                "@>@U :当这只精灵被破坏时，如果对战对手不把手牌1张舍弃，那么这张精灵从能量区以横置状态出场。@@\n" +
                 "@U :你的攻击阶段开始时，对战对手把手牌1张舍弃。然后，对战对手的手牌在0张的场合，这只精灵觉醒。\n"
         );
 

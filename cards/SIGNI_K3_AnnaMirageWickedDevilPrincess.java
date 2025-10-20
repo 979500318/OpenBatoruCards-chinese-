@@ -37,7 +37,7 @@ public final class SIGNI_K3_AnnaMirageWickedDevilPrincess extends Card {
         setDescription("zh_simplified", 
                 "@U :当你的精灵1只被破坏时，对战对手的牌组最上面的牌放置到废弃区。（当这只精灵被破坏时，也发动）\n" +
                 "@U :当这只精灵攻击时，你的场上有《挟界の閻魔　ウリス》的场合，对战对手选自己的精灵1只破坏。\n" +
-                "@E 如果不把你的其他的<<悪魔>>精灵2只从场上放置到废弃区，那么这只精灵#D。\n"
+                "@E :如果不把你的其他的<<悪魔>>精灵2只从场上放置到废弃区，那么这只精灵横置。\n"
         );
 
         setType(CardType.SIGNI);

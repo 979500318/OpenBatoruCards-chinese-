@@ -44,7 +44,7 @@ public final class SIGNI_B2_SnowsecPhantomInsect extends Card {
         setDescription("zh_simplified", 
                 "@U :你的回合结束时，这个回合你把牌2张以上舍弃过的场合，直到下一个对战对手的回合结束时为止，这只精灵的力量+4000。\n" +
                 "@E :抽1张牌，手牌1张舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

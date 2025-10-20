@@ -44,7 +44,7 @@ public final class SIGNI_B2_MangroveNaturalPlant extends Card {
 
 		setName("zh_simplified", "罗植 红树林");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，可以把竖直状态的这只精灵#D。这样做的场合，从以下的2种选1种。\n" +
+                "@U :你的攻击阶段开始时，可以把竖直状态的这只精灵横置。这样做的场合，从以下的2种选1种。\n" +
                 "$$1 你的手牌在3张以下的场合，抽1张牌。\n" +
                 "$$2 你的手牌在4张以上的场合，[[能量填充1]]。" +
                 "~#从你的牌组上面看3张牌。从中把精灵1张公开加入手牌或出场，剩下的任意顺序放置到牌组最下面。\n"

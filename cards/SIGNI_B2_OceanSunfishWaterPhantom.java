@@ -32,8 +32,8 @@ public final class SIGNI_B2_OceanSunfishWaterPhantom extends Card {
 
 		setName("zh_simplified", "幻水 翻车鱼");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，可以把竖直状态的这只精灵#D。这样做的场合，抽1张牌。" +
-                "~#对战对手的分身1只作为对象，将其#D。\n"
+                "@U :你的攻击阶段开始时，可以把竖直状态的这只精灵横置。这样做的场合，抽1张牌。" +
+                "~#对战对手的分身1只作为对象，将其横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

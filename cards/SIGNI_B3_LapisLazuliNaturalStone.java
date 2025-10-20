@@ -43,7 +43,7 @@ public final class SIGNI_B3_LapisLazuliNaturalStone extends Card {
         setDescription("zh_simplified", 
                 "@U 对战对手的回合期间，当这只精灵被破坏时，可以从手牌把红色的<<宝石>>精灵1张出场。那只精灵的@E能力不能发动。" +
                 "~#以下选1种。\n" +
-                "$$1 对战对手的精灵1只作为对象，将其#D。对战对手把手牌1张舍弃。\n" +
+                "$$1 对战对手的精灵1只作为对象，将其横置。对战对手把手牌1张舍弃。\n" +
                 "$$2 抽2张牌。\n"
         );
 

@@ -45,7 +45,7 @@ public final class SIGNI_R2_ProboscisMonkeyPhantomBeast extends Card {
 		setName("zh_simplified", "幻兽 长鼻猴");
         setDescription("zh_simplified", 
                 "@C :这只精灵的力量在12000以上时，得到\n" +
-                "@>@C 不会因为对战对手的效果#D。@@\n" +
+                "@>@C :不会因为对战对手的效果横置。@@\n" +
                 "@A %R%X %X:这只精灵的力量在15000以上的场合，直到回合结束时为止，这只精灵得到[[暗杀]]。\n"
         );
 

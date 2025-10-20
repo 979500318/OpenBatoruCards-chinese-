@@ -46,7 +46,7 @@ public final class SIGNI_B2_CodeMazeSolasser extends Card {
         setDescription("zh_simplified", 
                 "@E :你的其他的精灵1只作为对象，将其与这只精灵的场所交换。\n" +
                 "@U $T1 :当因为你的效果把场上的这只精灵往其他的精灵区移动时，对战对手的牌组最上面公开。你可以将其放置到对战对手的牌组最下面。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

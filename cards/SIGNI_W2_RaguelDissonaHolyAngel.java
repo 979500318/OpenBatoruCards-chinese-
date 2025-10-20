@@ -33,7 +33,7 @@ public final class SIGNI_W2_RaguelDissonaHolyAngel extends Card {
 
 		setName("zh_simplified", "圣天 拉贵尔//失调");
         setDescription("zh_simplified", 
-                "@A #D从能量区把#S的牌1张放置到废弃区:对战对手的等级1的精灵1只作为对象，将其返回手牌。\n"
+                "@A 横置从能量区把#S的牌1张放置到废弃区:对战对手的等级1的精灵1只作为对象，将其返回手牌。\n"
         );
 
         setCardFlags(CardFlag.DISSONA);

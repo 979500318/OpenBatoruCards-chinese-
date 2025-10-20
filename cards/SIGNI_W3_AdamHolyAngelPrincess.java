@@ -49,7 +49,7 @@ public final class SIGNI_W3_AdamHolyAngelPrincess extends Card {
                 "$$1 这个回合，对战对手如果不追加把%X %X:支付，那么不能[[防御]]。\n" +
                 "$$2 对战对手的分身1只作为对象，直到下一个对战对手的回合结束时为止，其得到\n" +
                 "@>@C 如果不把%X %X:支付，那么不能攻击。@@\n" +
-                "@A #D:你的场上有<<悪魔>>精灵的场合，抽1张牌。\n"
+                "@A 横置:你的场上有<<悪魔>>精灵的场合，抽1张牌。\n"
         );
 
         setType(CardType.SIGNI);

@@ -41,7 +41,7 @@ public final class SPELL_B_INVESTIGATE extends Card {
 		setName("zh_simplified", "INVESTIGATE");
         setDescription("zh_simplified", 
                 "从你的牌组上面看3张牌。从中把1张加入手牌，剩下的任意顺序返回牌组最上面。可以把这张魔法从检查区放置到你的《コードオーダー　エルドラ//メモリア》1只的下面。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

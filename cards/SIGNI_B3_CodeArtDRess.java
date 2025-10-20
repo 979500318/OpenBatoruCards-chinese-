@@ -30,7 +30,7 @@ public final class SIGNI_B3_CodeArtDRess extends Card {
 
 		setName("zh_simplified", "必杀代号 多罗丝赛露");
         setDescription("zh_simplified", 
-                "@A %B %B#D:对战对手的力量8000以下的精灵1只作为对象，将其放置到牌组最下面。对战对手的手牌在2张以下的场合，作为替代，对战对手的力量10000以下的精灵1只作为对象，将其放置到牌组最下面。\n"
+                "@A %B %B横置:对战对手的力量8000以下的精灵1只作为对象，将其放置到牌组最下面。对战对手的手牌在2张以下的场合，作为替代，对战对手的力量10000以下的精灵1只作为对象，将其放置到牌组最下面。\n"
         );
 
         setType(CardType.SIGNI);

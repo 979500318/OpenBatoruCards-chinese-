@@ -29,7 +29,7 @@ public final class SIGNI_W3_CaliburnGreatEquipment extends Card {
 
 		setName("zh_simplified", "大装 石中剑");
         setDescription("zh_simplified", 
-                "@A %W#D:对战对手的力量8000以下的精灵1只作为对象，将其返回手牌。你的生命护甲在2张以下的场合，作为替代，对战对手的力量10000以下的精灵1只作为对象，将其返回手牌。\n"
+                "@A %W横置:对战对手的力量8000以下的精灵1只作为对象，将其返回手牌。你的生命护甲在2张以下的场合，作为替代，对战对手的力量10000以下的精灵1只作为对象，将其返回手牌。\n"
         );
 
         setType(CardType.SIGNI);

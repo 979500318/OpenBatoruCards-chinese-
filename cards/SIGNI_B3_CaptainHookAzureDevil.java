@@ -51,7 +51,7 @@ public final class SIGNI_B3_CaptainHookAzureDevil extends Card {
         setDescription("zh_simplified", 
                 "@C :你的废弃区的牌在20张以上时，这只精灵不会因为对战对手的效果破坏。\n" +
                 "@U 攻击阶段期间，当这只精灵离场时，从你的废弃区把不持有#G的精灵5张作为对象，将这些加入牌组洗切。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

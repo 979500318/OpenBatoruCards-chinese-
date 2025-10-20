@@ -44,7 +44,7 @@ public final class SIGNI_W3_AzusaShirasuSwimsuit extends Card {
 		setName("zh_simplified", "白洲梓(泳装)");
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，你的场上的全部的精灵是<<ブルアカ>>的场合，对战对手的精灵1只作为对象，其的力量在5000以下的场合，将其返回手牌。这个回合结束时，将其从场上放置到废弃区。\n" +
-                "@A #D:你的牌组最上面公开。那张牌是<<ブルアカ>>的场合，抽1张牌。\n" +
+                "@A 横置:你的牌组最上面公开。那张牌是<<ブルアカ>>的场合，抽1张牌。\n" +
                 "~{{E直到回合结束时为止，对战对手的全部的精灵的@C能力失去。@@\n"
         );
 

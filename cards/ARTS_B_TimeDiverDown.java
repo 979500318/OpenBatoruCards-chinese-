@@ -33,7 +33,7 @@ public final class ARTS_B_TimeDiverDown extends Card {
 		setName("zh_simplified", "时间·潜水·下降");
         setDescription("zh_simplified", 
                 "这张必杀使用时，从手牌把蓝色的牌3张最多舍弃。这张必杀的使用费用依据这个方法舍弃的牌的数量，每有1张就减%B。\n" +
-                "&E4张以上@0对战对手的全部的精灵#D。\n"
+                "&E4张以上@0对战对手的全部的精灵横置。\n"
         );
 
         setType(CardType.ARTS);

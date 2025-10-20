@@ -37,7 +37,7 @@ public final class SIGNI_R1_TebulasanNaturalStar extends Card {
         
 		setName("zh_simplified", "罗星 山案座 ");
         setDescription("zh_simplified", 
-                "@A #D:这只精灵放置到牌组最上面。" +
+                "@A 横置:这只精灵放置到牌组最上面。" +
                 "~#对战对手的力量8000以下的精灵1只作为对象，可以支付%R。这样做的场合，将其破坏。\n"
         );
 

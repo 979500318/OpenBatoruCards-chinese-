@@ -44,7 +44,7 @@ public final class SIGNI_R3_HanayoFessoneNaturalPyroxene extends Card {
         setDescription("zh_simplified", 
                 "@C :这只精灵在觉醒状态时，这只精灵的力量+5000。\n" +
                 "@U :你的攻击阶段开始时，这只精灵的力量以下的对战对手的精灵1只作为对象，可以把手牌2张舍弃。这样做的场合，将其破坏。\n" +
-                "@E 竖直状态的分身2只#D:这只精灵觉醒。\n"
+                "@E 竖直状态的分身2只横置:这只精灵觉醒。\n"
         );
 
         setType(CardType.SIGNI);

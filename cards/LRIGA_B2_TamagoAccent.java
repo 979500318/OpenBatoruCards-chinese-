@@ -36,7 +36,7 @@ public final class LRIGA_B2_TamagoAccent extends Card {
         
 		setName("zh_simplified", "玉子=强音");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵1只作为对象，将其#D。\n" +
+                "@E :对战对手的精灵1只作为对象，将其横置。\n" +
                 "@E %B %B %B %B%X %X:对战对手的精灵1只作为对象，将其放置到牌组最下面。\n"
         );
 

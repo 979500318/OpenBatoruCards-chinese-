@@ -29,7 +29,7 @@ public final class SIGNI_K2_ZweiBerod extends Card {
 
 		setName("zh_simplified", "ZWEI=志贺样毒素");
         setDescription("zh_simplified", 
-                "@E 竖直状态的分身任意数量#D对战对手的精灵1只作为对象，直到回合结束时为止，其的力量依据这个方法#D的分身的等级的合计的数量，每有1级就-1000。\n"
+                "@E 竖直状态的分身任意数量横置:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量依据这个方法横置的分身的等级的合计的数量，每有1级就-1000。\n"
         );
 
         setType(CardType.SIGNI);

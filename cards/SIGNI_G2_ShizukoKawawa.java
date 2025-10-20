@@ -38,7 +38,7 @@ public final class SIGNI_G2_ShizukoKawawa extends Card {
 
 		setName("zh_simplified", "河和静子");
         setDescription("zh_simplified", 
-                "@A #D:你的牌组最上面公开。那张牌是<<ブルアカ>>的场合，[[能量填充1]]。\n" +
+                "@A 横置:你的牌组最上面公开。那张牌是<<ブルアカ>>的场合，[[能量填充1]]。\n" +
                 "~{{C:这只精灵的力量+4000。@@" +
                 "~#[[能量填充1]]。这个回合，下一次你因为分身受到伤害的场合，作为替代，不会受到伤害。\n"
         );

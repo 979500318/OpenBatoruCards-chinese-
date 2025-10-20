@@ -45,7 +45,7 @@ public final class SIGNI_G3_DreiInfluTypeD extends Card {
         
 		setName("zh_simplified", "DREI=流感D型");
         setDescription("zh_simplified", 
-                "=H蓝色的分身1只（当这只精灵出场时，如果不把你的竖直状态的蓝色的分身1只#D，那么将此牌#D）\n" +
+                "=H蓝色的分身1只（当这只精灵出场时，如果不把你的竖直状态的蓝色的分身1只横置，那么将此牌横置）\n" +
                 "@U :当这只精灵攻击时，对战对手的力量10000以上的精灵2只最多作为对象，可以支付%G %G %G%X %X %X。这样做的场合，将这些破坏。\n" +
                 "@U $T1 :当这只精灵被作为对战对手的，能力或效果的对象时，抽1张牌并[[能量填充1]]。\n"
         );

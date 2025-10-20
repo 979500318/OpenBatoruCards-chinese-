@@ -42,7 +42,7 @@ public final class SIGNI_K2_KagomekaDissonaImitatingPlay extends Card {
 
 		setName("zh_simplified", "似之游 笼中鸟//失调");
         setDescription("zh_simplified", 
-                "@A #D:从你的牌组上面把3张牌放置到废弃区。\n" +
+                "@A 横置:从你的牌组上面把3张牌放置到废弃区。\n" +
                 "@A %K:这只精灵从场上放置到废弃区从你的废弃区把等级3的#S的精灵1张作为对象，将其出场。" +
                 "~#从你的废弃区把#S的精灵1张作为对象，将其加入手牌或出场。\n"
         );

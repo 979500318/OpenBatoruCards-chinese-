@@ -38,7 +38,7 @@ public final class SIGNI_B4_CaptainHookClawOfDemonicSeas extends Card {
         setDescription("zh_simplified", 
                 "@C :你的手牌在0张时，这只精灵不会因为对战对手的效果破坏。\n" +
                 "@E 手牌2张舍弃:从你的牌组上面把5张牌公开。从中把<<悪魔>>精灵2张最多出场，剩下的放置到废弃区。" +
-                "~#对战对手的精灵2只最多作为对象，将这些#D并冻结。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置并冻结。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

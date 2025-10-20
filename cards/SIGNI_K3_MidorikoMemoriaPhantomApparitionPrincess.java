@@ -52,7 +52,7 @@ public final class SIGNI_K3_MidorikoMemoriaPhantomApparitionPrincess extends Car
 		setName("zh_simplified", "幻怪姬 翠子//回忆");
         setDescription("zh_simplified", 
                 "@C :这只精灵在中央的精灵区时，这只精灵的力量+3000，这只精灵得到\n" +
-                "@>@C 你的能量区的绿色的牌在3张以上时，这只精灵不会因为对战对手的效果#D。@@\n" +
+                "@>@C :你的能量区的绿色的牌在3张以上时，这只精灵不会因为对战对手的效果横置。@@\n" +
                 "@U :当这只精灵攻击时，这个回合你把和音使用过的场合，对战对手的精灵区1个指定。下一个对战对手的回合期间，对战对手的那个精灵区的精灵不能攻击。\n"
         );
 

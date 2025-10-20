@@ -33,7 +33,7 @@ public final class SIGNI_R3_LTurntablePhantomApparitionDeity extends Card {
 
 		setName("zh_simplified", "幻兽神 L唱盘");
         setDescription("zh_simplified", 
-                "@U $T1 :当你的《DJ.LOVIT3rdVerse-ULT》#D时，从对战对手的能量区把1张牌作为对象，将其放置到废弃区。其持有与对战对手的核心分身共通颜色的场合，对战对手可以[[能量填充1]]。\n" +
+                "@U $T1 当你的《DJ.LOVIT:3rdVerse-ULT》横置时，从对战对手的能量区把1张牌作为对象，将其放置到废弃区。其持有与对战对手的核心分身共通颜色的场合，对战对手可以[[能量填充1]]。\n" +
                 "@U :当这只精灵攻击时，对战对手的能量区的牌在4张以下的场合，你的分身1只作为对象，可以支付%R。这样做的场合，将其竖直。\n"
         );
 

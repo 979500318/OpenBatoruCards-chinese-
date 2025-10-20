@@ -29,7 +29,7 @@ public final class SIGNI_R2_PalamedesCrimsonGeneral extends Card {
 
 		setName("zh_simplified", "红将 帕拉梅德斯");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，对战对手的能量区的牌在2张以上的场合，可以把你的竖直状态的分身1只#D。然后，从对战对手的能量区把持有与这个方法#D的分身共通颜色的牌1张作为对象，将其放置到废弃区。\n"
+                "@U :你的攻击阶段开始时，对战对手的能量区的牌在2张以上的场合，可以把你的竖直状态的分身1只横置。然后，从对战对手的能量区把持有与这个方法横置的分身共通颜色的牌1张作为对象，将其放置到废弃区。\n"
         );
 
         setType(CardType.SIGNI);

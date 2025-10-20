@@ -33,7 +33,7 @@ public final class SIGNI_B2_HeliumGasNaturalSource extends Card {
         
 		setName("zh_simplified", "罗原 Heg");
         setDescription("zh_simplified", 
-                "@U 当这只精灵因为战斗以外被破坏时，对战对手的分身1只作为对象，将其#D。\n"
+                "@U :当这只精灵因为战斗以外被破坏时，对战对手的分身1只作为对象，将其横置。\n"
         );
 
         setType(CardType.SIGNI);

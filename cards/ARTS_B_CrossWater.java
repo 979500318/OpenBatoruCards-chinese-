@@ -35,7 +35,7 @@ public final class ARTS_B_CrossWater extends Card {
 		setName("zh_simplified", "叉叉·水造");
         setDescription("zh_simplified", 
                 "从以下的2种选1种。\n" +
-                "$$1 对战对手的分身或精灵1只作为对象，将其#D。\n" +
+                "$$1 对战对手的分身或精灵1只作为对象，将其横置。\n" +
                 "$$2 对战对手的红色或绿色的精灵1只作为对象，将其放置到牌组最下面。\n"
         );
 

@@ -29,7 +29,7 @@ public final class SIGNI_B1_CodeArtSCoreboard extends Card {
 		setName("zh_simplified", "必杀代号 记分板");
         setDescription("zh_simplified", 
                 "@E :你的牌组最上面公开。那张牌是魔法的场合，抽1张牌。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

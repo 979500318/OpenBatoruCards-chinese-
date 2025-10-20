@@ -30,7 +30,7 @@ public final class SIGNI_R2_TourouCrimsonBeauty extends Card {
 
 		setName("zh_simplified", "红美 灯笼");
         setDescription("zh_simplified", 
-                "@A #D从能量区把<<美巧>>精灵1张放置到废弃区:对战对手的力量8000以下的精灵1只作为对象，将其破坏。" +
+                "@A 横置从能量区把<<美巧>>精灵1张放置到废弃区:对战对手的力量8000以下的精灵1只作为对象，将其破坏。" +
                 "~#对战对手的力量8000以下的精灵1只作为对象，将其破坏。\n"
         );
 

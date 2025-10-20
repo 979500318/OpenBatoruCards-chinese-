@@ -41,7 +41,7 @@ public final class SIGNI_B3_AoiFujiNaturalStar extends Card {
         setDescription("zh_simplified", 
                 "@E :你的牌组最上面公开。那张牌是等级1的精灵的场合，抽1张牌。不是的场合，那张牌放置到牌组最下面。" +
                 "~#以下选1种。\n" +
-                "$$1 对战对手的精灵2只最多作为对象，将这些#D。\n" +
+                "$$1 对战对手的精灵2只最多作为对象，将这些横置。\n" +
                 "$$2 抽1张牌。\n"
         );
 

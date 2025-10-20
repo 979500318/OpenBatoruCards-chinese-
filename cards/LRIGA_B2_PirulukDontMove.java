@@ -36,7 +36,7 @@ public final class LRIGA_B2_PirulukDontMove extends Card {
         
 		setName("zh_simplified", "皮璐璐可/D-M");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵2只最多作为对象，将这些#D。\n" +
+                "@E :对战对手的精灵2只最多作为对象，将这些横置。\n" +
                 "@E %X %X:抽2张牌。\n"
         );
 

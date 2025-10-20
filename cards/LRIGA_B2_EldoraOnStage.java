@@ -45,7 +45,7 @@ public final class LRIGA_B2_EldoraOnStage extends Card {
         setDescription("zh_simplified", 
                 "@E 这个回合，第1张和第2张放置到你的检查区的生命护甲得到##\n" +
                 "@>:以下选1种。\n" +
-                "$$1 对战对手的精灵1只作为对象，将其#D。\n" +
+                "$$1 对战对手的精灵1只作为对象，将其横置。\n" +
                 "$$2 抽2张牌。@@\n"
         );
 

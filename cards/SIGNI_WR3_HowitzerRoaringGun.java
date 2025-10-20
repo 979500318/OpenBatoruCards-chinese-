@@ -46,7 +46,7 @@ public final class SIGNI_WR3_HowitzerRoaringGun extends Card {
 		setName("zh_simplified", "轰炮 榴弹炮");
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，对战对手的力量8000以下的精灵1只作为对象，可以把手牌1张舍弃。这样做的场合，将其破坏。\n" +
-                "@A #D:这个回合，下一次因为这只精灵的效果把对战对手的精灵1只破坏的场合，放置到能量区，作为替代，放置到废弃区。\n"
+                "@A 横置:这个回合，下一次因为这只精灵的效果把对战对手的精灵1只破坏的场合，放置到能量区，作为替代，放置到废弃区。\n"
         );
 
         setType(CardType.SIGNI);

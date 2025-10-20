@@ -35,7 +35,7 @@ public final class ARTS_B_DontLeaveMe extends Card {
 		setName("zh_simplified", "不能·离开");
         setDescription("zh_simplified", 
                 "下注—#C #C\n" +
-                "对战对手的精灵1只作为对象，将其#D。你下注的场合，作为替代，对战对手的精灵2只作为对象，将这些#D。\n"
+                "对战对手的精灵1只作为对象，将其横置。你下注的场合，作为替代，对战对手的精灵2只作为对象，将这些横置。\n"
         );
 
         setType(CardType.ARTS);

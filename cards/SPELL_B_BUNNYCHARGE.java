@@ -33,7 +33,7 @@ public final class SPELL_B_BUNNYCHARGE extends Card {
 		setName("zh_simplified", "BUNNY CHARGE");
         setDescription("zh_simplified", 
                 "抽2张牌。可以把手牌1张舍弃。这样做的场合，这个回合的下一个攻击阶段结束时，可以从你的手牌把等级2以下的<<遊具>>精灵1张出场。那只精灵的@E能力不能发动。" +
-                "~#对战对手的精灵2只最多作为对象，将这些#D。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

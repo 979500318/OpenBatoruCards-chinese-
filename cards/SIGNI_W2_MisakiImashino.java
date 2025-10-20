@@ -37,7 +37,7 @@ public final class SIGNI_W2_MisakiImashino extends Card {
 
 		setName("zh_simplified", "戒野美咲");
         setDescription("zh_simplified", 
-                "@A %W#D从手牌把<<ブルアカ>>牌1张舍弃:对战对手的力量10000以下的精灵1只作为对象，将其返回手牌。\n" +
+                "@A %W横置从手牌把<<ブルアカ>>牌1张舍弃:对战对手的力量10000以下的精灵1只作为对象，将其返回手牌。\n" +
                 "~{{C:这只精灵的力量+4000。@@\n"
         );
 

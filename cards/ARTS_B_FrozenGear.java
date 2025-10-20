@@ -33,8 +33,8 @@ public final class ARTS_B_FrozenGear extends Card {
 
 		setName("zh_simplified", "冰冻·流年");
         setDescription("zh_simplified", 
-                "对战对手的分身或精灵1只作为对象，将其#D。\n" +
-                "&E4张以上@0追加对战对手的精灵1只作为对象，如果对战对手不把手牌3张舍弃，那么将其#D。\n"
+                "对战对手的分身或精灵1只作为对象，将其横置。\n" +
+                "&E4张以上@0追加对战对手的精灵1只作为对象，如果对战对手不把手牌3张舍弃，那么将其横置。\n"
         );
 
         setType(CardType.ARTS);

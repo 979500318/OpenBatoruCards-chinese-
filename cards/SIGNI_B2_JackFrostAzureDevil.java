@@ -35,7 +35,7 @@ public final class SIGNI_B2_JackFrostAzureDevil extends Card {
 		setName("zh_simplified", "苍魔 杰克冻人");
         setDescription("zh_simplified", 
                 "@E @[超越 3]@（从你的分身的下面把牌合计3张放置到分身废弃区）:对战对手的全部的精灵冻结。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

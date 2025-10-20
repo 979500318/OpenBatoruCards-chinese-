@@ -43,7 +43,7 @@ public final class SIGNI_W3_YaekiriGreatEquipment extends Card {
         
 		setName("zh_simplified", "大装 八重弦");
         setDescription("zh_simplified", 
-                "=H红色的分身1只（当这只精灵出场时，如果不把你的竖直状态的红色的分身1只#D，那么将此牌#D）\n" +
+                "=H红色的分身1只（当这只精灵出场时，如果不把你的竖直状态的红色的分身1只横置，那么将此牌横置）\n" +
                 "@U $T1 :当你[[防御]]时，抽1张牌。\n" +
                 "@U 当这只精灵攻击时，从你的废弃区把持有#G的精灵1张作为对象，可以支付%W%X。这样做的场合，将其加入手牌。\n"
         );

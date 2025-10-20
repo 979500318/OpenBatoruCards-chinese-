@@ -39,7 +39,7 @@ public final class SIGNI_G2_IshikumaDoujiVerdantDevil extends Card {
 		setName("zh_simplified", "翠魔 石熊童子");
         setDescription("zh_simplified", 
                 "@U :你的主要阶段开始时，可以把这只精灵从场上放置到废弃区并支付%X。这样做的场合，对战对手选自己的精灵1只放置到能量区。\n" +
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000。" +
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000。" +
                 "~#[[能量填充1]]。这个回合，下一次你因为分身受到伤害的场合，作为替代，不会受到伤害。\n"
         );
 

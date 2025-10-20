@@ -39,7 +39,7 @@ public final class SIGNI_X3_UrithDissonaLucentDevilPrincess extends Card {
 
 		setName("zh_simplified", "透魔姬 乌莉丝//失调");
         setDescription("zh_simplified", 
-                "=H分身2只（当这只精灵出场时，如果不把你的竖直状态的分身2只#D，那么将此牌#D）\n" +
+                "=H分身2只（当这只精灵出场时，如果不把你的竖直状态的分身2只横置，那么将此牌横置）\n" +
                 "@U 你的攻击阶段开始时，这只精灵在竖直状态的场合，对战对手的精灵1只作为对象，可以选你的手牌1张。这样做的场合，对战对手从%Wi%Ri%Bi%Gi%Ki%Xi中把1种宣言。你把那张选的牌舍弃，那张牌不持有宣言的图标的场合，将其破坏。\n"
         );
 

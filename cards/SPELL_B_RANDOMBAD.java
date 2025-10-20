@@ -35,7 +35,7 @@ public final class SPELL_B_RANDOMBAD extends Card {
 		setName("zh_simplified", "RANDOM BAD");
         setDescription("zh_simplified", 
                 "抽1张牌，对战对手把手牌1张舍弃。你的场上的<<うちゅうのはじまり>>分身在3只的场合，作为替代，抽1张牌，不看对战对手的手牌选1张，舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

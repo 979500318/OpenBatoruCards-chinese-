@@ -47,7 +47,7 @@ public final class SIGNI_B1_AllosPirulukTHEDOORPhantomInsect extends Card {
                 "@U :你的攻击阶段开始时，可以从手牌把<<解放派>>精灵1张舍弃。这样做的场合，对战对手把手牌1张舍弃。\n" +
                 "@C :这张牌的上面的<<解放派>>精灵得到\n" +
                 "@>@U :你的攻击阶段开始时，可以把手牌1张舍弃。这样做的场合，不看对战对手的手牌选1张，舍弃。@@" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

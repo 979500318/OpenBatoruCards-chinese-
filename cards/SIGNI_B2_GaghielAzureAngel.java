@@ -39,7 +39,7 @@ public final class SIGNI_B2_GaghielAzureAngel extends Card {
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，抽1张牌，手牌1张舍弃。\n" +
                 "@E :抽1张牌，手牌1张舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

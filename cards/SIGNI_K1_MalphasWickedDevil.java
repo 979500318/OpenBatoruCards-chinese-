@@ -33,7 +33,7 @@ public final class SIGNI_K1_MalphasWickedDevil extends Card {
         
 		setName("zh_simplified", "凶魔 玛帕");
         setDescription("zh_simplified", 
-                "@U 当这只精灵被破坏时，可以从手牌把<<悪魔>>精灵2张舍弃。这样做的场合，这张精灵从能量区以#D状态出场。\n"
+                "@U :当这只精灵被破坏时，可以从手牌把<<悪魔>>精灵2张舍弃。这样做的场合，这张精灵从能量区以横置状态出场。\n"
         );
 
         setType(CardType.SIGNI);

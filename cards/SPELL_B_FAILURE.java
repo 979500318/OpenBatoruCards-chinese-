@@ -46,7 +46,7 @@ public final class SPELL_B_FAILURE extends Card {
         setDescription("zh_simplified", 
                 "这张魔法只有在你的场上有《羅星姫　タマゴ//メモリア》或《羅星　ノヴァ//メモリア》或《翠魔　バン//メモリア》或，对战对手的手牌在1张以下的场合才能使用。\n" +
                 "对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-8000。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

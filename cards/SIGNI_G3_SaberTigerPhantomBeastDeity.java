@@ -42,7 +42,7 @@ public final class SIGNI_G3_SaberTigerPhantomBeastDeity extends Card {
 
 		setName("zh_simplified", "幻兽神 剑齿虎");
         setDescription("zh_simplified", 
-                "=H红色的分身1只（当这只精灵出场时，如果不把你的竖直状态的红色的分身1只#D，那么将此牌#D）\n" +
+                "=H红色的分身1只（当这只精灵出场时，如果不把你的竖直状态的红色的分身1只横置，那么将此牌横置）\n" +
                 "@C :你的其他的精灵的力量+3000。\n" +
                 "@U :当这只精灵攻击时，[[能量填充1]]。然后，这个回合从你的牌组把牌3张以上往能量区移动过的场合，可以支付%G%R%X。这样做的场合，对战对手的精灵1只作为对象，将其破坏。\n"
         );

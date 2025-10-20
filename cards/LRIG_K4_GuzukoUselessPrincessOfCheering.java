@@ -44,7 +44,7 @@ public final class LRIG_K4_GuzukoUselessPrincessOfCheering extends Card {
 		setName("zh_simplified", "应援的驮姬 迟钝子");
         setDescription("zh_simplified", 
                 "@E :你的牌组最上面公开。其是等级在奇数的精灵的场合，抽2张牌。\n" +
-                "@A #D:从你的废弃区把<<トリック>>精灵1张作为对象，将其放置到牌组最上面。\n" +
+                "@A 横置:从你的废弃区把<<トリック>>精灵1张作为对象，将其放置到牌组最上面。\n" +
                 "@A $G1 直击#C #C:这个回合，这只分身因为自己的攻击给予3次伤害。（对战对手能[[防御]]3次最多）\n"
         );
 

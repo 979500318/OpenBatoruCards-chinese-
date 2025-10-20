@@ -38,7 +38,7 @@ public final class SIGNI_B2_CodeMazePrimora extends Card {
 		setName("zh_simplified", "迷宫代号 沿海州水族馆秀");
         setDescription("zh_simplified", 
                 "@U :对战对手的回合结束时，对战对手的精灵1只作为对象，将其冻结。\n" +
-                "@U 当这只精灵被破坏时，对战对手的精灵1只作为对象，将其#D并冻结。\n"
+                "@U :当这只精灵被破坏时，对战对手的精灵1只作为对象，将其横置并冻结。\n"
         );
 
         setType(CardType.SIGNI);

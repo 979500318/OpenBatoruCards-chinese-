@@ -36,7 +36,7 @@ public final class PIECE_X_TapDownTap extends Card {
         
 		setName("zh_simplified", "●TAP DOWN TAP●");
         setDescription("zh_simplified", 
-                "你的生命护甲在0张的场合，对战对手的分身或精灵1只作为对象，将其#D。\n"
+                "你的生命护甲在0张的场合，对战对手的分身或精灵1只作为对象，将其横置。\n"
         );
 
         setType(CardType.PIECE);

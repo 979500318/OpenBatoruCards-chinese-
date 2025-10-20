@@ -35,7 +35,7 @@ public final class SIGNI_W2_WhiteFacePaintHolyBeauty extends Card {
 		setName("zh_simplified", "圣美 白涂");
         setDescription("zh_simplified", 
                 "@E :对战对手的等级2以下的精灵1只作为对象，直到回合结束时为止，其变为白色。\n" +
-                "@A %X#D:持有与这个费用放置到废弃区的牌共通颜色的对战对手的力量5000以下的精灵1只作为对象，将其返回手牌。\n"
+                "@A %X横置:持有与这个费用放置到废弃区的牌共通颜色的对战对手的力量5000以下的精灵1只作为对象，将其返回手牌。\n"
         );
 
         setType(CardType.SIGNI);

@@ -35,7 +35,7 @@ public final class SPELL_B_BraveStinger extends Card {
 		setName("zh_simplified", "勇猛·毒刺");
         setDescription("zh_simplified", 
                 "你的<<武勇>>精灵1只作为对象，直到回合结束时为止，其得到[[暗杀（冻结状态的力量8000以下的精灵）]]。" +
-                "~#对战对手的精灵2只最多作为对象，将这些#D。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

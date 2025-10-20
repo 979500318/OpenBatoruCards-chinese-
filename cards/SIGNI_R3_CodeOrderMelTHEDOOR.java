@@ -45,7 +45,7 @@ public final class SIGNI_R3_CodeOrderMelTHEDOOR extends Card {
 		setName("zh_simplified", "点单代号 梅露//THE DOOR");
         setDescription("zh_simplified", 
                 "=R在你的<<解放派>>精灵1只的上面放置\n" +
-                "@U :当这只精灵离场时，从你的废弃区把这只精灵的下面原有的精灵1张作为对象，可以支付%X %X。这样做的场合，将其以#D状态出场。其的@E能力不能发动。\n" +
+                "@U :当这只精灵离场时，从你的废弃区把这只精灵的下面原有的精灵1张作为对象，可以支付%X %X。这样做的场合，将其以横置状态出场。其的@E能力不能发动。\n" +
                 "@U :你的攻击阶段开始时，对战对手的能量区的牌在2张以上的场合，对战对手从自己的能量区选1张牌放置到废弃区。\n"
         );
 

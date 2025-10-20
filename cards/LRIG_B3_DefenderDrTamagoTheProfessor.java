@@ -43,7 +43,7 @@ public final class LRIG_B3_DefenderDrTamagoTheProfessor extends Card {
 		setName("zh_simplified", "教授 防卫者Dr.玉子");
         setDescription("zh_simplified", 
                 "@E :对战对手的分身1只作为对象，将其冻结。\n" +
-                "@A $T1 竖直状态的<<防衛派>>精灵1只#D:抽1张牌或，对战对手把手牌1张舍弃。\n" +
+                "@A $T1 竖直状态的<<防衛派>>精灵1只横置:抽1张牌或，对战对手把手牌1张舍弃。\n" +
                 "@A $G1 %B0:你的精灵区1个放置[[大门]]1个。\n"
         );
 

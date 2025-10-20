@@ -32,7 +32,7 @@ public final class SIGNI_B2_CodeEatWaterJelly extends Card {
 		setName("zh_simplified", "食用代号 水果冻");
         setDescription("zh_simplified", 
                 "@E :你的牌组最上面公开。你的场上有持有与那张牌共通颜色的分身的场合，那张牌放置到这只精灵的下面。\n" +
-                "@A #D:从这只精灵的下面把1张牌加入手牌。\n"
+                "@A 横置:从这只精灵的下面把1张牌加入手牌。\n"
         );
 
         setType(CardType.SIGNI);

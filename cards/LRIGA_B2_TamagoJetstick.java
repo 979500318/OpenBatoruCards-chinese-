@@ -35,7 +35,7 @@ public final class LRIGA_B2_TamagoJetstick extends Card {
         
 		setName("zh_simplified", "玉子=喷喷");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵1只作为对象，将其#D。\n" +
+                "@E :对战对手的精灵1只作为对象，将其横置。\n" +
                 "@E %X:抽2张牌。\n"
         );
 

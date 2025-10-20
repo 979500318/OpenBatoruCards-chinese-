@@ -32,7 +32,7 @@ public final class LRIGA_B2_MilulunThreaten extends Card {
 
 		setName("zh_simplified", "米璐璐恩☆吓你");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵1只作为对象，将其#D。这个回合对战对手把魔法使用过的场合，作为替代，将其破坏。\n"
+                "@E :对战对手的精灵1只作为对象，将其横置。这个回合对战对手把魔法使用过的场合，作为替代，将其破坏。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

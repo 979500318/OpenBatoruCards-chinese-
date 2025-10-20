@@ -28,7 +28,7 @@ public final class LRIGA_B2_MikomikoTehee extends Card {
 		setName("zh_simplified", "みこみこ☆呵呵");
         setDescription("zh_simplified", 
                 "@E :如果对战对手不把手牌1张舍弃，那么抽2张牌。\n" +
-                "@E 对战对手的精灵1只作为对象，将其#D。\n"
+                "@E :对战对手的精灵1只作为对象，将其横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

@@ -37,7 +37,7 @@ public final class LRIGA_B2_MilulunFlash extends Card {
 
 		setName("zh_simplified", "米璐璐恩☆闪光");
         setDescription("zh_simplified", 
-                "@E 从你的废弃区把不持有#G的名字不同的精灵任意张数作为对象，将这些加入牌组洗切。然后，对战对手的精灵，等级的合计与这个方法加入牌组的精灵的张数相同的任意数量作为对象，将这些#D。\n"
+                "@E 从你的废弃区把不持有#G的名字不同的精灵任意张数作为对象，将这些加入牌组洗切。然后，对战对手的精灵，等级的合计与这个方法加入牌组的精灵的张数相同的任意数量作为对象，将这些横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

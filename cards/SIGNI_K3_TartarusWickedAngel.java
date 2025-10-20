@@ -46,7 +46,7 @@ public final class SIGNI_K3_TartarusWickedAngel extends Card {
 		setName("zh_simplified", "凶天 塔耳塔洛斯");
         setDescription("zh_simplified", 
                 "@U 你的回合结束时，从你的废弃区把不持有#G的精灵3张作为对象，将这些加入牌组洗切。\n" +
-                "@A #D:从你的牌组上面把5张牌放置到废弃区。" +
+                "@A 横置:从你的牌组上面把5张牌放置到废弃区。" +
                 "~#从你的废弃区把不持有#G的精灵1张作为对象，将其加入手牌或出场。\n"
         );
 

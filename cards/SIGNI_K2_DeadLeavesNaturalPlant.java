@@ -34,7 +34,7 @@ public final class SIGNI_K2_DeadLeavesNaturalPlant extends Card {
 
 		setName("zh_simplified", "罗植 枯叶");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，从你的废弃区把<<植物>>精灵1张作为对象，可以把竖直状态的这只精灵#D。这样做的场合，将其放置到能量区。" +
+                "@U :你的攻击阶段开始时，从你的废弃区把<<植物>>精灵1张作为对象，可以把竖直状态的这只精灵横置。这样做的场合，将其放置到能量区。" +
                 "~#对战对手的精灵1只作为对象，可以支付%X。这样做的场合，直到回合结束时为止，其的力量-12000。\n"
         );
 

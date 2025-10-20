@@ -40,7 +40,7 @@ public final class SIGNI_K3_HinaSorasakiDress extends Card {
 
 		setName("zh_simplified", "空崎日奈(礼服)");
         setDescription("zh_simplified", 
-                "@A %K#D:直到回合结束时为止，这只精灵得到\n" +
+                "@A %K横置:直到回合结束时为止，这只精灵得到\n" +
                 "@>@U :你的攻击阶段开始时，你的场上的全部的精灵是<<ブルアカ>>的场合，对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-15000。@@\n" +
                 "~{{U:你的攻击阶段开始时，这只精灵竖直。@@\n"
         );

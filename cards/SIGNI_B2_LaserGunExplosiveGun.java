@@ -32,7 +32,7 @@ public final class SIGNI_B2_LaserGunExplosiveGun extends Card {
 		setName("zh_simplified", "爆炮 激光枪");
         setDescription("zh_simplified", 
                 "@U $T1 :当你的精灵达成[天堂]时，抽1张牌。" +
-                "~#对战对手的分身1只作为对象，将其#D。\n"
+                "~#对战对手的分身1只作为对象，将其横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

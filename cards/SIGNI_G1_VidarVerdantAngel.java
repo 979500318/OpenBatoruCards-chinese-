@@ -36,7 +36,7 @@ public final class SIGNI_G1_VidarVerdantAngel extends Card {
 
 		setName("zh_simplified", "翠天 维达尔");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，可以把竖直状态的这只精灵#D。这样做的场合，[[能量填充1]]。" +
+                "@U :你的攻击阶段开始时，可以把竖直状态的这只精灵横置。这样做的场合，[[能量填充1]]。" +
                 "~#[[能量填充1]]。这个回合，下一次你因为精灵受到伤害的场合，作为替代，不会受到伤害。\n"
         );
 

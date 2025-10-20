@@ -32,7 +32,7 @@ public final class SIGNI_B2_HarpeMediumEquipment extends Card {
 		setName("zh_simplified", "中装 赫帕尔");
         setDescription("zh_simplified", 
                 "@U $T1 :当你的其他的<<アーム>>精灵因为战斗把精灵1只破坏时，对战对手把手牌1张舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

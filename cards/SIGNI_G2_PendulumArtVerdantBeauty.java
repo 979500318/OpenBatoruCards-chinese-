@@ -37,7 +37,7 @@ public final class SIGNI_G2_PendulumArtVerdantBeauty extends Card {
 		setName("zh_simplified", "翠美 钟摆画");
         setDescription("zh_simplified", 
                 "@U :对战对手的回合结束时，[[能量填充1]]。\n" +
-                "@A #D:你的精灵1只作为对象，直到下一个对战对手的回合结束时为止，其的力量+3000。" +
+                "@A 横置:你的精灵1只作为对象，直到下一个对战对手的回合结束时为止，其的力量+3000。" +
                 "~#对战对手的力量7000以上的精灵1只作为对象，可以支付%X。这样做的场合，将其破坏。\n"
         );
 

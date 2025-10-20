@@ -44,7 +44,7 @@ public final class SIGNI_W3_RememberFessoneNaturalStarPrincess extends Card {
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，对战对手的场上的冻结状态的分身和精灵合计3只以上的场合，可以支付%X %X %X。这样做的场合，直到回合结束时为止，这只精灵得到[[暗杀]]。\n" +
                 "@E :不是核心分身的对战对手的分身1只作为对象，将其冻结。\n" +
-                "@A $T1 竖直状态的精灵1只#D:对战对手的精灵1只作为对象，将其冻结。\n"
+                "@A $T1 竖直状态的精灵1只横置:对战对手的精灵1只作为对象，将其冻结。\n"
         );
 
         setType(CardType.SIGNI);

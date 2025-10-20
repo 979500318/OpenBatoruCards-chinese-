@@ -42,7 +42,7 @@ public final class SIGNI_R1_CodeRideTruckMixer extends Card {
         
 		setName("zh_simplified", "骑乘代号 混凝土搅拌车");
         setDescription("zh_simplified", 
-                "@A #D:这只精灵放置到你的其他的红色的精灵1只的下面。\n" +
+                "@A 横置:这只精灵放置到你的其他的红色的精灵1只的下面。\n" +
                 "@C :这张牌的上面的红色的精灵的力量+2000。" +
                 "~#对战对手的力量12000以下的精灵1只作为对象，可以支付%R%X。这样做的场合，将其破坏。\n"
         );

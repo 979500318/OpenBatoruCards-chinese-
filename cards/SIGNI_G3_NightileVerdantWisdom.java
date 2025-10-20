@@ -53,7 +53,7 @@ public final class SIGNI_G3_NightileVerdantWisdom extends Card {
                 "$$2 直到回合结束时为止，这只精灵的基本力量变为10000，得到\n" +
                 "@>@C :不会因为对战对手的效果把这只精灵的力量-（减号）。@@\n" +
                 "$$3 直到回合结束时为止，这只精灵的基本力量变为12000，得到\n" +
-                "@>@C 不会因为对战对手的效果#D。@@\n"
+                "@>@C :不会因为对战对手的效果横置。@@\n"
         );
 
         setType(CardType.SIGNI);

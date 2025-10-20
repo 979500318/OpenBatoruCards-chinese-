@@ -46,7 +46,7 @@ public final class SIGNI_K3_Code2434RinShizuka extends Card {
 		setName("zh_simplified", "2434代号 静凛");
         setDescription("zh_simplified", 
                 "@U $T1 :你的主要阶段期间，当你的其他的精灵离场时，这只精灵竖直。\n" +
-                "@A #D:从你的牌组上面把5张牌放置到废弃区。（如果牌组5张以下，那么这些全部放置到废弃区并重构）" +
+                "@A 横置:从你的牌组上面把5张牌放置到废弃区。（如果牌组5张以下，那么这些全部放置到废弃区并重构）" +
                 "~#从你的废弃区把<<バーチャル>>精灵1张作为对象，将其加入手牌或出场。\n"
         );
 

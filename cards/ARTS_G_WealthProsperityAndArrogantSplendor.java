@@ -50,7 +50,7 @@ public final class ARTS_G_WealthProsperityAndArrogantSplendor extends Card {
         setDescription("zh_simplified", 
                 "你的等级2以上的核心分身1只作为对象，直到下一个你的充能阶段结束时为止，其的界限+1，其得到以下的能力。\n" +
                 "@>@U :当因为对战对手的效果1个往你的废弃区把牌合计1张以上放置时，从因为那个效果往你的废弃区放置的牌中把牌1张最多作为对象，将其加入手牌或放置到能量区。\n" +
-                "@A $T1 #D[[能量填充2]]。然后，从你的能量区把牌1张最多作为对象，将其加入手牌。@@\n"
+                "@A $T1 :横置[[能量填充2]]。然后，从你的能量区把牌1张最多作为对象，将其加入手牌。@@\n"
         );
 
         setType(CardType.ARTS);

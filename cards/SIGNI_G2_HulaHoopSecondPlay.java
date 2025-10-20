@@ -28,7 +28,7 @@ public final class SIGNI_G2_HulaHoopSecondPlay extends Card {
 
 		setName("zh_simplified", "贰之游 呼啦圈");
         setDescription("zh_simplified", 
-                "@U 当这只精灵攻击时，那次攻击结束时，从你的能量区把等级2以下的<<遊具>>精灵1张作为对象，可以把场上的这只精灵放置到能量区。这样做的场合，将其以#D状态出场。其的@E能力不能发动。\n"
+                "@U 当这只精灵攻击时，那次攻击结束时，从你的能量区把等级2以下的<<遊具>>精灵1张作为对象，可以把场上的这只精灵放置到能量区。这样做的场合，将其以横置状态出场。其的@E能力不能发动。\n"
         );
 
         setType(CardType.SIGNI);

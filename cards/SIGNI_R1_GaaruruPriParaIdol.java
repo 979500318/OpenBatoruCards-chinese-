@@ -36,8 +36,8 @@ public final class SIGNI_R1_GaaruruPriParaIdol extends Card {
 
 		setName("zh_simplified", "美妙天堂偶像 卡露露");
         setDescription("zh_simplified", 
-                "@A #D:对战对手的力量2000以下的精灵1只作为对象，将其破坏。\n" +
-                "@A #D:对战对手的力量3000以下的精灵1只作为对象，将其破坏。这个能力只有在你的场上有其他的<<プリパラ>>精灵的场合才能使用。\n"
+                "@A 横置:对战对手的力量2000以下的精灵1只作为对象，将其破坏。\n" +
+                "@A 横置:对战对手的力量3000以下的精灵1只作为对象，将其破坏。这个能力只有在你的场上有其他的<<プリパラ>>精灵的场合才能使用。\n"
         );
 
         setType(CardType.SIGNI);

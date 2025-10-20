@@ -38,7 +38,7 @@ public final class SIGNI_B1_KoyukiKurosaki extends Card {
 		setName("zh_simplified", "黑崎小雪");
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，你的场上的全部的精灵是<<ブルアカ>>的场合，可以把手牌1张舍弃。这样做的场合，不看对战对手的手牌选1张，舍弃。\n" +
-                "~{{U你的攻击阶段开始时，可以把竖直状态的这只精灵#D。这样做的场合，抽1张牌。@@\n"
+                "~{{U:你的攻击阶段开始时，可以把竖直状态的这只精灵横置。这样做的场合，抽1张牌。@@\n"
         );
 
         setType(CardType.SIGNI);

@@ -38,7 +38,7 @@ public final class SIGNI_W1_LongspearSmallEquipment extends Card {
 
 		setName("zh_simplified", "小装 长矛");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，你的分身1只作为对象，可以把竖直状态的这只精灵#D。这样做的场合，直到回合结束时为止，其得到\n" +
+                "@U :你的攻击阶段开始时，你的分身1只作为对象，可以把竖直状态的这只精灵横置。这样做的场合，直到回合结束时为止，其得到\n" +
                 "@>@U $T1 :当这只分身攻击时，对战对手的精灵1只作为对象，将其放置到废弃区。@@\n"
         );
 

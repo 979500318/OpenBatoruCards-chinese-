@@ -32,7 +32,7 @@ public final class SIGNI_K1_EinHanareMemoria extends Card {
         
 		setName("zh_simplified", "EINS=离//回忆");
         setDescription("zh_simplified", 
-                "@A #D:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-1000。你的废弃区的牌在15张以上的场合，作为替代，直到回合结束时为止，其的力量-3000。\n"
+                "@A 横置:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-1000。你的废弃区的牌在15张以上的场合，作为替代，直到回合结束时为止，其的力量-3000。\n"
         );
 
         setType(CardType.SIGNI);

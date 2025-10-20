@@ -35,7 +35,7 @@ public final class SIGNI_W3_CodeHeartLMusicalNoteAmp extends Card {
 
 		setName("zh_simplified", "爱心代号 L扩音");
         setDescription("zh_simplified", 
-                "@U $T1 :当你的《MC.LION3rdVerse-ULT》#D时，从你的牌组上面看5张牌。从中把魔法1张公开加入手牌，剩下的任意顺序放置到牌组最下面。\n" +
+                "@U $T1 当你的《MC.LION:3rdVerse-ULT》横置时，从你的牌组上面看5张牌。从中把魔法1张公开加入手牌，剩下的任意顺序放置到牌组最下面。\n" +
                 "@U :当这只精灵攻击时，这个回合你把魔法使用过的场合，你的分身1只作为对象，可以支付%W。这样做的场合，将其竖直。\n"
         );
 

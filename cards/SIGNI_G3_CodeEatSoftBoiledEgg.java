@@ -51,7 +51,7 @@ public final class SIGNI_G3_CodeEatSoftBoiledEgg extends Card {
 
 		setName("zh_simplified", "食用代号 温泉蛋");
         setDescription("zh_simplified", 
-                "@>@C 被此牌附属的精灵离场的场合，作为替代，可以将此牌从游戏除外。这样做的场合，那只精灵#D。@@\n"
+                "@>@C 被此牌附属的精灵离场的场合，作为替代，可以将此牌从游戏除外。这样做的场合，那只精灵横置。@@\n"
         );
 
         setCardFlags(CardFlag.CRAFT);

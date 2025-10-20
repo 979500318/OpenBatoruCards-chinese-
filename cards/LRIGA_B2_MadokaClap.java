@@ -39,9 +39,9 @@ public final class LRIGA_B2_MadokaClap extends Card {
         
 		setName("zh_simplified", "円//拍掌");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵1只作为对象，将其#D。\n" +
-                "@E :手牌2张舍弃对战对手的精灵1只作为对象，将其#D。\n" +
-                "@E %B%X %X对战对手的精灵1只作为对象，将其#D。\n"
+                "@E :对战对手的精灵1只作为对象，将其横置。\n" +
+                "@E 手牌2张舍弃:对战对手的精灵1只作为对象，将其横置。\n" +
+                "@E %B%X %X:对战对手的精灵1只作为对象，将其横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

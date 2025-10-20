@@ -43,7 +43,7 @@ public final class RESONA_R3_CodeHeatWixongerRobo extends Card {
 		setName("zh_simplified", "赤日代号 愿望交错机器人");
         setDescription("zh_simplified", 
                 "[[出现条件]]主要阶段从手牌和能量区把精灵合计3张放置到废弃区\n" +
-                "@C 这只精灵因为对战对手的效果离场的场合，作为替代，这个能力失去。这样做的场合，这只精灵#D。\n" +
+                "@C :这只精灵因为对战对手的效果离场的场合，作为替代，这个能力失去。这样做的场合，这只精灵横置。\n" +
                 "@U :当这只精灵攻击时，对战对手的力量12000以下的精灵1只作为对象，将其破坏。\n"
         );
 

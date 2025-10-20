@@ -35,8 +35,8 @@ public final class LRIGA_B2_MadokaArrange extends Card {
         
 		setName("zh_simplified", "円//编曲");
         setDescription("zh_simplified", 
-                "@E 你的能量区的牌持有颜色在合计3种类以上的场合，对战对手的精灵1只作为对象，将其#D。\n" +
-                "@E 你的废弃区的牌在15张以上的场合，对战对手的精灵1只作为对象，将其#D。\n"
+                "@E :你的能量区的牌持有颜色在合计3种类以上的场合，对战对手的精灵1只作为对象，将其横置。\n" +
+                "@E :你的废弃区的牌在15张以上的场合，对战对手的精灵1只作为对象，将其横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

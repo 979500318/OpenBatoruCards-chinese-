@@ -42,7 +42,7 @@ public final class SIGNI_W2_YukayukaDissonaMediumTrap extends Card {
 
 		setName("zh_simplified", "中罠 由香香//失调");
         setDescription("zh_simplified", 
-                "@A %W %W#D从你的废弃区把持有#G的精灵1张作为对象，将其加入手牌。" +
+                "@A %W %W:横置从你的废弃区把持有#G的精灵1张作为对象，将其加入手牌。" +
                 "~#对战对手的精灵1只作为对象，直到回合结束时为止，其得到\n" +
                 "@>@C :不能攻击。@@\n" +
                 "。抽1张牌。\n"

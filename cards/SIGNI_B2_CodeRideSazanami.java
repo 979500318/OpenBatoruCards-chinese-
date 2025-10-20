@@ -42,7 +42,7 @@ public final class SIGNI_B2_CodeRideSazanami extends Card {
 		setName("zh_simplified", "骑乘代号 涟号护卫舰");
         setDescription("zh_simplified", 
                 "@U :当这只精灵被升阶时，看对战对手的手牌。\n" +
-                "@A #D:抽2张牌，手牌2张舍弃。" +
+                "@A 横置:抽2张牌，手牌2张舍弃。" +
                 "~#从你的牌组上面看3张牌。从中把精灵1张公开加入手牌或出场，剩下的任意顺序放置到牌组最下面。\n"
         );
 

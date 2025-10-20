@@ -45,7 +45,7 @@ public final class SIGNI_B3_ColumbusAzureGeneralPrincess extends Card {
         
 		setName("zh_simplified", "苍将姬 哥伦布");
         setDescription("zh_simplified", 
-                "=H分身2只（当这只精灵出场时，如果不把你的竖直状态的分身2只#D，那么将此牌#D）\n" +
+                "=H分身2只（当这只精灵出场时，如果不把你的竖直状态的分身2只横置，那么将此牌横置）\n" +
                 "@C :你的分身牌组的牌在1张以下时，这只精灵的力量+3000。\n" +
                 "@U :你的攻击阶段开始时，这只精灵在竖直状态的场合，对战对手的精灵1只作为对象，可以把手牌3张舍弃。这样做的场合，将其破坏。\n"
         );

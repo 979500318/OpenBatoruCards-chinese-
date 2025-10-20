@@ -36,7 +36,7 @@ public final class SIGNI_B3_CodeEatCoffeeDissona extends Card {
 
 		setName("zh_simplified", "食用代号 咖啡//失调");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，可以把你的竖直状态的#S的精灵2只#D。这样做的场合，抽1张牌，对战对手把手牌1张舍弃。然后，你把对战对手的精灵1只作为对象，将其冻结。\n"
+                "@U 你的攻击阶段开始时，可以把你的竖直状态的#S的精灵2只横置。这样做的场合，抽1张牌，对战对手把手牌1张舍弃。然后，你把对战对手的精灵1只作为对象，将其冻结。\n"
         );
 
         setCardFlags(CardFlag.DISSONA);

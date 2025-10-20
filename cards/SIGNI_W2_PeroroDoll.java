@@ -50,7 +50,7 @@ public final class SIGNI_W2_PeroroDoll extends Card {
 		setName("zh_simplified", "佩洛洛人偶");
         setDescription("zh_simplified", 
                 "@C :对战对手的精灵对正面攻击的场合，作为替代，对这只精灵的精灵区攻击。\n" +
-                "@C 竖直状态的这只精灵因为战斗或对战对手的效果离场的场合，作为替代，可以把这只精灵#D。\n" +
+                "@C :竖直状态的这只精灵因为战斗或对战对手的效果离场的场合，作为替代，可以把这只精灵横置。\n" +
                 "@U :对战对手的回合结束时，这只精灵从游戏除外。\n"
         );
 

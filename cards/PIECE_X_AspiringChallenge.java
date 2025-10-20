@@ -37,8 +37,8 @@ public final class PIECE_X_AspiringChallenge extends Card {
 		setName("zh_simplified", "向憧憬的挑战");
         setDescription("zh_simplified", 
                 "直到回合结束时为止，你的全部的分身得到以下的能力。\n" +
-                "@>@A $T1 #D:从你的废弃区把持有与这只分身共通颜色的精灵1张作为对象，将其出场。\n" +
-                "@A $T1 #D与这只分身相同等级的对战对手的精灵1只作为对象，将其破坏。@@\n"
+                "@>@A $T1 横置:从你的废弃区把持有与这只分身共通颜色的精灵1张作为对象，将其出场。\n" +
+                "@A $T1 :横置与这只分身相同等级的对战对手的精灵1只作为对象，将其破坏。@@\n"
         );
 
         setType(CardType.PIECE);

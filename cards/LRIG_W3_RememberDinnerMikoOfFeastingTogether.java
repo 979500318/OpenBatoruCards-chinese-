@@ -47,7 +47,7 @@ public final class LRIG_W3_RememberDinnerMikoOfFeastingTogether extends Card {
 
 		setName("zh_simplified", "共宴的巫女 忆·晚餐");
         setDescription("zh_simplified", 
-                "@U 当这只分身攻击时，对战对手的精灵1只作为对象，将其#D并冻结。\n" +
+                "@U :当这只分身攻击时，对战对手的精灵1只作为对象，将其横置并冻结。\n" +
                 "@A $T1 %W0:从你的牌组上面看3张牌。从中把1张牌加入手牌，剩下的任意顺序放置到牌组最下面。\n" +
                 "@A $G1 %W0:直到下一个对战对手的回合结束时为止，对战对手的核心分身和全部的精灵的能力失去。（这个能力使用后出场的分身和精灵不受这个效果影响）\n"
         );

@@ -40,7 +40,7 @@ public final class LRIG_R3_DJLOVIT3rdVerseULT extends Card {
 
 		setName("zh_simplified", "DJ.LOVIT 3rdVerse-ULT");
         setDescription("zh_simplified", 
-                "@A #D:你的精灵1只作为对象，直到回合结束时为止，其得到[[暗杀]]。\n" +
+                "@A 横置:你的精灵1只作为对象，直到回合结束时为止，其得到[[暗杀]]。\n" +
                 "@A $G1 氛围MAX%R0:直到回合结束时为止，这只分身得到\n" +
                 "@>@U $T2 :当因为你的效果1个从对战对手的能量区把牌合计1张以上放置到废弃区时，这只分身竖直。@@\n"
         );

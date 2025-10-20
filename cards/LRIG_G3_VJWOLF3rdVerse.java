@@ -51,11 +51,11 @@ public final class LRIG_G3_VJWOLF3rdVerse extends Card {
 		setName("zh_simplified", "VJ.WOLF-3rdVerse");
         setDescription("zh_simplified", 
                 "=T<<Card:Jockey>>\n" +
-                "^A#D:[[能量填充2]]\n" +
+                "^A横置:[[能量填充2]]\n" +
                 "@E :直到回合结束时为止，这只分身得到\n" +
                 "@>@C :你的精灵的力量+5000。@@\n" +
                 "@A $G1 %G0:直到回合结束时为止，这只分身得到\n" +
-                "@>@A 竖直状态的等级2的分身1只#D:这只分身竖直。@@\n"
+                "@>@A 竖直状态的等级2的分身1只横置:这只分身竖直。@@\n"
         );
 
         setType(CardType.LRIG);

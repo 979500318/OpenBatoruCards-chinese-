@@ -35,8 +35,8 @@ public final class LRIGA_B2_UmrDown extends Card {
         
 		setName("zh_simplified", "乌姆尔=下降");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵1只作为对象，将其#D。\n" +
-                "@E %B%X对战对手的精灵1只作为对象，将其#D。\n" +
+                "@E :对战对手的精灵1只作为对象，将其横置。\n" +
+                "@E %B%X:对战对手的精灵1只作为对象，将其横置。\n" +
                 "（@E能力的:的左侧有费用。则可以选择不把费用支付，而不发动）\n"
         );
 

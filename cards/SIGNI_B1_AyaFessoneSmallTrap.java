@@ -43,7 +43,7 @@ public final class SIGNI_B1_AyaFessoneSmallTrap extends Card {
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，你的场上有等级3的觉醒状态的精灵的场合，抽1张牌。\n" +
                 "@A $T1 #C #C对战对手的精灵1只和，从对战对手的废弃区把精灵1张作为对象，这些的等级相同的场合，将这些的场所交换。这个方法出场的精灵的@E能力不能发动。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

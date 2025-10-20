@@ -34,8 +34,8 @@ public final class SIGNI_B2_WaterGunSecondPlay extends Card {
 
 		setName("zh_simplified", "贰之游 水枪");
         setDescription("zh_simplified", 
-                "@U 攻击阶段期间，当这只精灵离场时，可以从你的手牌把等级1的<<遊具>>精灵1张以#D状态出场。那只精灵的@E能力不能发动。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "@U 攻击阶段期间，当这只精灵离场时，可以从你的手牌把等级1的<<遊具>>精灵1张以横置状态出场。那只精灵的@E能力不能发动。" +
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

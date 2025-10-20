@@ -39,7 +39,7 @@ public final class SIGNI_B2_HopeDiaDissonaNaturalStone extends Card {
 		setName("zh_simplified", "罗石 希望蓝钻//失调");
         setDescription("zh_simplified", 
                 "@U $T1 :对战对手的回合期间，当这只精灵被作为对战对手的，能力或效果的对象时，对战对手把手牌1张舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST | CardFlag.DISSONA);

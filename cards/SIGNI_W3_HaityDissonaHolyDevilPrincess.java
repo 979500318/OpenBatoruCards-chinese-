@@ -52,7 +52,7 @@ public final class SIGNI_W3_HaityDissonaHolyDevilPrincess extends Card {
 		setName("zh_simplified", "圣魔姬 海蒂//失调");
         setDescription("zh_simplified", 
                 "@U :对战对手的攻击阶段开始时，对战对手的精灵1只作为对象，可以把这只精灵从场上放置到废弃区并支付%W%X %X。这样做的场合，将其放置到废弃区。\n" +
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵得到\n" +
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵得到\n" +
                 "@>@C :对战对手的回合期间，得到[[暗影]]。@@" +
                 "~#抽2张牌。这个回合，你的手牌的精灵得到#G。（持有#G的精灵得到[[防御]]）\n"
         );

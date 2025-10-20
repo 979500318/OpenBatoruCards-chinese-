@@ -41,7 +41,7 @@ public final class SIGNI_G1_TsukuyoOono extends Card {
 
 		setName("zh_simplified", "大野月咏");
         setDescription("zh_simplified", 
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000，这只精灵得到\n" +
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000，这只精灵得到\n" +
                 "@>@U $T1 :当你的生命护甲1张被击溃时，你的牌组最上面公开。那张牌是<<ブルアカ>>的场合，[[能量填充1]]。@@\n" +
                 "~{{C:这只精灵的力量+4000。@@\n"
         );

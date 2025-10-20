@@ -43,7 +43,7 @@ public final class SIGNI_W3_GaevolgGreatEquipment extends Card {
         setDescription("zh_simplified", 
                 "@C :你的核心分身得到\n" +
                 "@>@U $T1 :当这只分身攻击时，对战对手的精灵1只作为对象，将其放置到废弃区。@@\n" +
-                "@U 你的攻击阶段开始时，可以把你的竖直状态的白色的精灵1只#D。这样做的场合，抽1张牌。\n"
+                "@U :你的攻击阶段开始时，可以把你的竖直状态的白色的精灵1只横置。这样做的场合，抽1张牌。\n"
         );
 
         setType(CardType.SIGNI);

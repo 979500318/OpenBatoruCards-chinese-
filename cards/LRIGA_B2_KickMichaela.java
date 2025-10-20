@@ -35,8 +35,8 @@ public final class LRIGA_B2_KickMichaela extends Card {
 
 		setName("zh_simplified", "蹴·米卡伊来");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵1只作为对象，将其#D。\n" +
-                "@E %B%X %X对战对手的#D状态的精灵1只作为对象，将其放置到牌组最下面。\n"
+                "@E :对战对手的精灵1只作为对象，将其横置。\n" +
+                "@E %B%X %X:对战对手的横置状态的精灵1只作为对象，将其放置到牌组最下面。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

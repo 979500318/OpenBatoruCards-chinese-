@@ -32,7 +32,7 @@ public final class SIGNI_W2_MikagamiMediumEquipment extends Card {
         
 		setName("zh_simplified", "中装 御镜");
         setDescription("zh_simplified", 
-                "@U 当你的分身1只攻击时，可以把竖直状态的这只精灵#D。这样做的场合，抽1张牌。\n"
+                "@U :当你的分身1只攻击时，可以把竖直状态的这只精灵横置。这样做的场合，抽1张牌。\n"
         );
 
         setType(CardType.SIGNI);

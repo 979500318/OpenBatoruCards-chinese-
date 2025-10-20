@@ -33,7 +33,7 @@ public final class SIGNI_B3_TamagoDissonaNaturalStarPrincess extends Card {
 		setName("zh_simplified", "罗星姬 玉子//失调");
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，可以把手牌1张舍弃。这样做的场合，抽2张牌。\n" +
-                "@A 竖直状态的分身2只#D:抽1张牌。\n"
+                "@A 竖直状态的分身2只横置:抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.DISSONA);

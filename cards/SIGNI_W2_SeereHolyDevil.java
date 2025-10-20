@@ -37,7 +37,7 @@ public final class SIGNI_W2_SeereHolyDevil extends Card {
 		setName("zh_simplified", "圣魔 系尔");
         setDescription("zh_simplified", 
                 "@U :你的主要阶段开始时，对战对手的力量10000以下的精灵1只作为对象，可以把这只精灵从场上放置到废弃区并支付%X。这样做的场合，将其返回手牌。\n" +
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000。\n"
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000。\n"
         );
 
         setType(CardType.SIGNI);

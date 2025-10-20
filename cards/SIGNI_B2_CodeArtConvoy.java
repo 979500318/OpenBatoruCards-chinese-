@@ -39,7 +39,7 @@ public final class SIGNI_B2_CodeArtConvoy extends Card {
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，这只精灵在觉醒状态的场合，直到下一个对战对手的回合结束时为止，你的全部的精灵的力量+2000。\n" +
                 "@A 手牌1张舍弃:这只精灵觉醒。（精灵觉醒后在场上保持觉醒状态）" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

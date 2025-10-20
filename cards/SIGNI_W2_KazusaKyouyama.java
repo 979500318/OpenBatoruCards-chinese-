@@ -38,7 +38,7 @@ public final class SIGNI_W2_KazusaKyouyama extends Card {
 
 		setName("zh_simplified", "杏山千纱");
         setDescription("zh_simplified", 
-                "@A #D从能量区把<<ブルアカ>>牌1张放置到废弃区:对战对手的等级1的精灵1只作为对象，将其返回手牌。\n" +
+                "@A 横置从能量区把<<ブルアカ>>牌1张放置到废弃区:对战对手的等级1的精灵1只作为对象，将其返回手牌。\n" +
                 "~{{C:这只精灵的力量+4000。@@\n"
         );
 

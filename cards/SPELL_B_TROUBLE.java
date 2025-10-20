@@ -39,7 +39,7 @@ public final class SPELL_B_TROUBLE extends Card {
 		setName("zh_simplified", "TROUBLE");
         setDescription("zh_simplified", 
                 "抽3张牌。" +
-                "~#对战对手的精灵2只最多作为对象，将这些#D。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

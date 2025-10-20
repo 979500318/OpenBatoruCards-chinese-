@@ -45,7 +45,7 @@ public final class SIGNI_K3_GuzukoDissonaWretchedPlayPrincess extends Card {
 
 		setName("zh_simplified", "惨之游姬 迟钝子//失调");
         setDescription("zh_simplified", 
-                "@U $T1 :当这只精灵被作为对战对手的，能力或效果的对象时，你的牌组最上面的牌放置到废弃区。那张牌是精灵的场合，可以支付%K%X。这样做的场合，那张牌以#D状态出场。\n" +
+                "@U $T1 :当这只精灵被作为对战对手的，能力或效果的对象时，你的牌组最上面的牌放置到废弃区。那张牌是精灵的场合，可以支付%K%X。这样做的场合，那张牌以横置状态出场。\n" +
                 "@E %K%X %X:对战对手的精灵1只作为对象，将其破坏。" +
                 "~#从你的废弃区把不持有#G的精灵1张作为对象，将其加入手牌或出场。\n"
         );

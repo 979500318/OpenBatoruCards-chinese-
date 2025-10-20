@@ -38,8 +38,8 @@ public final class SIGNI_B2_LuShangAzureGeneral extends Card {
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，你的场上有其他的<<武勇>>精灵的场合，从以下的2种选1种。\n" +
                 "$$1 对战对手的精灵1只作为对象，将其冻结。\n" +
-                "$$2 可以把竖直状态的这只精灵#D。这样做的场合，对战对手把手牌1张舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "$$2 可以把竖直状态的这只精灵横置。这样做的场合，对战对手把手牌1张舍弃。" +
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

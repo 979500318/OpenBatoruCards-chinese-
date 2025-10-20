@@ -42,7 +42,7 @@ public final class SIGNI_B3_TamagoMemoriaNaturalStarPrincess extends Card {
         setDescription("zh_simplified", 
                 "@U :你的回合结束时，抽1张牌。\n" +
                 "@U :对战对手的回合结束时，不看对战对手的手牌选1张，舍弃。\n" +
-                "@E #D:直到下一个对战对手的回合结束时为止，这只精灵的力量+8000。\n"
+                "@E 横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+8000。\n"
         );
 
         setType(CardType.SIGNI);

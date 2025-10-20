@@ -31,7 +31,7 @@ public final class ARTS_B_PleaseStop extends Card {
 
 		setName("zh_simplified", "压迫·阻碍");
         setDescription("zh_simplified", 
-                "从手牌把精灵任意张数舍弃。然后，依据这个方法舍弃的精灵的数量，每有1张就把与那张精灵相同等级的对战对手的精灵1只作为对象，将这些#D。\n"
+                "从手牌把精灵任意张数舍弃。然后，依据这个方法舍弃的精灵的数量，每有1张就把与那张精灵相同等级的对战对手的精灵1只作为对象，将这些横置。\n"
         );
 
         setType(CardType.ARTS);

@@ -30,7 +30,7 @@ public final class ARTS_B_DontMoveOn extends Card {
 
 		setName("zh_simplified", "不能·继续·行动");
         setDescription("zh_simplified", 
-                "对战对手的分身和精灵合计2只最多作为对象，将这些#D。\n"
+                "对战对手的分身和精灵合计2只最多作为对象，将这些横置。\n"
         );
 
         setType(CardType.ARTS);

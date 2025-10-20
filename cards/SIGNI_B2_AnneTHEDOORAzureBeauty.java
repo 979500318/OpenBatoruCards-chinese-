@@ -35,7 +35,7 @@ public final class SIGNI_B2_AnneTHEDOORAzureBeauty extends Card {
 		setName("zh_simplified", "苍美 安//THE DOOR");
         setDescription("zh_simplified", 
                 "@E 从手牌把<<解放派>>精灵1张放置到这只精灵的下面:抽1张牌。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

@@ -32,7 +32,7 @@ public final class SIGNI_K1_Code2434RatnaPetit extends Card {
         
 		setName("zh_simplified", "2434代号 拉特娜·葡蒂");
         setDescription("zh_simplified", 
-                "@A #D:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-1000。你的场上的<<バーチャル>>精灵在3只以上的场合，作为替代，直到回合结束时为止，其的力量-2000。\n"
+                "@A 横置:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-1000。你的场上的<<バーチャル>>精灵在3只以上的场合，作为替代，直到回合结束时为止，其的力量-2000。\n"
         );
 
         setType(CardType.SIGNI);

@@ -35,8 +35,8 @@ public final class ARTS_B_OperationPreparations extends Card {
 		setName("zh_simplified", "作战准备");
         setDescription("zh_simplified", 
                 "从以下的2种选1种。\n" +
-                "$$1 对战对手的分身或精灵1只作为对象，将其#D。\n" +
-                "$$2 对战对手的分身和精灵合计2只最多作为对象，可以从你的能量区把<<ブルアカ>>牌2张放置到废弃区。这样做的场合，将这些#D。\n"
+                "$$1 对战对手的分身或精灵1只作为对象，将其横置。\n" +
+                "$$2 对战对手的分身和精灵合计2只最多作为对象，可以从你的能量区把<<ブルアカ>>牌2张放置到废弃区。这样做的场合，将这些横置。\n"
         );
 
         setType(CardType.ARTS);

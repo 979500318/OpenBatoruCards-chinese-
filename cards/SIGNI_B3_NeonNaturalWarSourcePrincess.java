@@ -52,7 +52,7 @@ public final class SIGNI_B3_NeonNaturalWarSourcePrincess extends Card {
 		setName("zh_simplified", "罗原斗姬 Ne");
         setDescription("zh_simplified", 
                 "@C :你的<<原子>>精灵因为对战对手的效果离场的场合，假如那次移动不是因为破坏，作为替代，可以把那只精灵破坏。\n" +
-                "@A $T1 %B竖直状态的<<原子>>精灵2只#D:你的场上有《ミルルン・ケミストリー》的场合，直到回合结束时为止，这只精灵得到\n" +
+                "@A $T1 %B竖直状态的<<原子>>精灵2只横置:你的场上有《ミルルン・ケミストリー》的场合，直到回合结束时为止，这只精灵得到\n" +
                 "@>@U :你的攻击阶段开始时，对战对手的精灵1只作为对象，将其破坏。@@\n"
         );
 

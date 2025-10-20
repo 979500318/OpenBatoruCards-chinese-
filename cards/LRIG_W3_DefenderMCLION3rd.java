@@ -43,7 +43,7 @@ public final class LRIG_W3_DefenderMCLION3rd extends Card {
 		setName("zh_simplified", "防卫者MC.LION-3rd");
         setDescription("zh_simplified", 
                 "@E :从你的牌组上面看5张牌。从中把<<防衛派>>精灵1张出场，剩下的任意顺序放置到牌组最下面。\n" +
-                "@A $T1 竖直状态的<<防衛派>>精灵1只#D:对战对手的力量8000以下的精灵1只作为对象，将其返回手牌。\n" +
+                "@A $T1 竖直状态的<<防衛派>>精灵1只横置:对战对手的力量8000以下的精灵1只作为对象，将其返回手牌。\n" +
                 "@A $G1 %W0:你的精灵区1个放置[[大门]]1个。\n"
         );
 

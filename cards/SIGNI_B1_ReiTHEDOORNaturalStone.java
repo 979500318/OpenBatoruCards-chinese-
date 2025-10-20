@@ -48,7 +48,7 @@ public final class SIGNI_B1_ReiTHEDOORNaturalStone extends Card {
                 "@C :这只精灵的相同精灵区有[[大门]]时，得到\n" +
                 "@>@U :你的攻击阶段开始时，抽1张牌。@@\n" +
                 "@E :你的场上有[[大门]]的场合，从你的牌组上面看3张牌。从中把任意张数的牌任意顺序放置到牌组最下面，剩下的任意顺序返回牌组最上面。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

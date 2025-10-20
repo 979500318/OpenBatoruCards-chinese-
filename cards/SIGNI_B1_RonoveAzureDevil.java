@@ -40,7 +40,7 @@ public final class SIGNI_B1_RonoveAzureDevil extends Card {
 		setName("zh_simplified", "苍魔 柏诺贝");
         setDescription("zh_simplified", 
                 "@U :你的回合结束时，这个回合从你的牌组把牌3张以上放置到废弃区的场合，抽1张牌。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

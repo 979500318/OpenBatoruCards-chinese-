@@ -34,7 +34,7 @@ public final class SIGNI_B1_NeonTetraWaterPhantom extends Card {
 		setName("zh_simplified", "幻水 彩虹方头鱼");
         setDescription("zh_simplified", 
                 "@E :对战对手的精灵1只作为对象，将其冻结。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

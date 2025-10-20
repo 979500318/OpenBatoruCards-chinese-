@@ -51,7 +51,7 @@ public final class LRIG_W3_AkinoAdvancingTowardsCourage extends Card {
                 "=T<<No:Limit>>\n" +
                 "^C:对战对手的回合期间，你的中央的精灵区的精灵的力量+2000。\n" +
                 "@E :抽1张牌并[[能量填充1]]。\n" +
-                "@A $G1 竖直状态的等级2的分身2只#D对战对手的精灵2只最多作为对象，可以从手牌把持有#G的牌1张舍弃。这样做的场合，将这些返回手牌。\n"
+                "@A $G1 :竖直状态的等级2的分身2只横置对战对手的精灵2只最多作为对象，可以从手牌把持有#G的牌1张舍弃。这样做的场合，将这些返回手牌。\n"
         );
 
         setType(CardType.LRIG);

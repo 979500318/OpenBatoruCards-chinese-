@@ -44,7 +44,7 @@ public final class SIGNI_B2_MiyuKasumizawa extends Card {
 		setName("zh_simplified", "霞泽美游");
         setDescription("zh_simplified", 
                 "@E 从手牌把<<ブルアカ>>牌1张舍弃:对战对手的精灵1只作为对象，这个回合，因为你的效果将其的力量-（减号）的场合，作为替代，2倍-（减号）。\n" +
-                "~{{U你的攻击阶段开始时，可以把竖直状态的这只精灵#D。这样做的场合，抽1张牌。@@\n"
+                "~{{U:你的攻击阶段开始时，可以把竖直状态的这只精灵横置。这样做的场合，抽1张牌。@@\n"
         );
 
         setType(CardType.SIGNI);

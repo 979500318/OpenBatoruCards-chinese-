@@ -46,7 +46,7 @@ public final class PIECE_B_SparklingBlue extends Card {
         setDescription("zh_simplified", 
                 "=U你的场上有蓝色的分身\n" +
                 "你的场上的蓝色的分身在2只以上时，这张和音的使用费用依据你的场上的蓝色的分身的数量，每有1只就减%B。\n" +
-                "对战对手的全部的分身和精灵#D并冻结。下一个对战对手的抽牌阶段期间，对战对手只能抽合计1张最多的牌。\n"
+                "对战对手的全部的分身和精灵横置并冻结。下一个对战对手的抽牌阶段期间，对战对手只能抽合计1张最多的牌。\n"
         );
 
         setType(CardType.PIECE);

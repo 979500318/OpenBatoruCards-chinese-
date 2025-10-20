@@ -43,7 +43,7 @@ public final class SIGNI_W3_DonaDissonaNaturalApparitionPrincess extends Card {
 		setName("zh_simplified", "幻怪姬 多娜//失调");
         setDescription("zh_simplified", 
                 "@C 对战对手的回合期间，你的其他的#S的精灵的力量+3000。\n" +
-                "@U 当你的分身1只攻击时，可以把你的竖直状态的#S的精灵2只#D并支付%W%X。这样做的场合，那只分身竖直，直到回合结束时为止，那只分身的能力失去。\n"
+                "@U 当你的分身1只攻击时，可以把你的竖直状态的#S的精灵2只横置并支付%W%X。这样做的场合，那只分身竖直，直到回合结束时为止，那只分身的能力失去。\n"
         );
 
         setCardFlags(CardFlag.DISSONA);

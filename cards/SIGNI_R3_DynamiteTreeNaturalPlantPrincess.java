@@ -38,7 +38,7 @@ public final class SIGNI_R3_DynamiteTreeNaturalPlantPrincess extends Card {
 
 		setName("zh_simplified", "罗植姬 炸药树");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，对战对手的力量8000以下的精灵1只作为对象，可以把竖直状态的这只精灵#D。这样做的场合，将其破坏。\n" +
+                "@U :你的攻击阶段开始时，对战对手的力量8000以下的精灵1只作为对象，可以把竖直状态的这只精灵横置。这样做的场合，将其破坏。\n" +
                 "@U :你的回合结束时，从对战对手的能量区把无色的牌1张作为对象，将其放置到废弃区。" +
                 "~#以下选1种。\n" +
                 "$$1 对战对手的竖直状态的精灵1只作为对象，将其破坏。\n" +

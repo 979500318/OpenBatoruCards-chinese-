@@ -50,7 +50,7 @@ public final class SIGNI_B3_CodeHeartPirulukFessone extends Card {
         setDescription("zh_simplified", 
                 "@U 你的攻击阶段开始时，这只精灵在觉醒状态的场合，看对战对手的手牌选不持有#G的牌1张，舍弃。\n" +
                 "@A $T1 %B0:这个回合，下一次你把魔法使用的场合，那张魔法的使用费用减%B。\n" +
-                "@E 竖直状态的分身2只#D:这只精灵觉醒。\n"
+                "@E 竖直状态的分身2只横置:这只精灵觉醒。\n"
         );
 
         setType(CardType.SIGNI);

@@ -35,7 +35,7 @@ public final class SIGNI_W1_DrawingBreadHolyBeauty extends Card {
 		setName("zh_simplified", "圣美 炭笔面包擦");
         setDescription("zh_simplified", 
                 "@U 你的回合结束时，你的其他的&lt;美巧&gt;精灵1只作为对象，直到下一个对战对手的回合结束时为止，其得到[[暗影（等级2以下的精灵）]]。\n" +
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵得到[[暗影（等级2以下的精灵）]]。\n"
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵得到[[暗影（等级2以下的精灵）]]。\n"
         );
 
         setType(CardType.SIGNI);

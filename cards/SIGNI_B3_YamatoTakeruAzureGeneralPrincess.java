@@ -31,7 +31,7 @@ public final class SIGNI_B3_YamatoTakeruAzureGeneralPrincess extends Card {
 		setName("zh_simplified", "苍将姬 日本武尊");
         setDescription("zh_simplified", 
                 "@U 你的攻击阶段开始时，对战对手把手牌1张舍弃。&E4张以上@0作为替代，不看对战对手的手牌选1张，舍弃。\n" +
-                "@A #D:抽1张牌。\n"
+                "@A 横置:抽1张牌。\n"
         );
 
         setType(CardType.SIGNI);

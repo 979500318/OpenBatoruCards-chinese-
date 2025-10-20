@@ -35,7 +35,7 @@ public final class SIGNI_K3_SionTodoPriParaIdol extends Card {
 
 		setName("zh_simplified", "美妙天堂偶像 东堂诗音");
         setDescription("zh_simplified", 
-                "@A %X#D:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量依据你的废弃区的<<プリパラ>>精灵的数量，每有1张就-1000。这个效果只能把15张最多适用。\n"
+                "@A %X横置:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量依据你的废弃区的<<プリパラ>>精灵的数量，每有1张就-1000。这个效果只能把15张最多适用。\n"
         );
 
         setType(CardType.SIGNI);

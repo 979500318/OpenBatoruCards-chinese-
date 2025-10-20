@@ -51,7 +51,7 @@ public final class SIGNI_B2_AyaMemoriaMediumTrap extends Card {
                 "@>@A 主要阶段攻击阶段%B0:这个方法放置的牌从分身区加入手牌。@@\n" +
                 "。下一个对战对手的回合结束时，那张牌加入手牌。\n" +
                 "@A $T1 #C #C:抽1张牌。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

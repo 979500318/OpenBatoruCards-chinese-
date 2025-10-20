@@ -48,10 +48,10 @@ public final class LRIG_R3_DJLOVIT3rdVerse extends Card {
 		setName("zh_simplified", "DJ.LOVIT-3rdVerse");
         setDescription("zh_simplified", 
                 "=T<<Card:Jockey>>\n" +
-                "^A#D:对战对手的核心分身在等级3以上的场合，从对战对手的能量区把1张牌作为对象，将其放置到废弃区。\n" +
+                "^A横置:对战对手的核心分身在等级3以上的场合，从对战对手的能量区把1张牌作为对象，将其放置到废弃区。\n" +
                 "@E :对战对手的精灵1只作为对象，将其破坏。\n" +
                 "@A $G1 %R0:直到回合结束时为止，这只分身得到\n" +
-                "@>@A 竖直状态的等级2的分身1只#D:这只分身竖直。@@\n"
+                "@>@A 竖直状态的等级2的分身1只横置:这只分身竖直。@@\n"
         );
 
         setType(CardType.LRIG);

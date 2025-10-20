@@ -35,8 +35,8 @@ public final class SIGNI_B1_TamagoFessoneNaturalStar extends Card {
 
 		setName("zh_simplified", "罗星 玉子//音乐节");
         setDescription("zh_simplified", 
-                "@A #D:对战对手的精灵2只最多作为对象，将这些冻结。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "@A 横置:对战对手的精灵2只最多作为对象，将这些冻结。" +
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

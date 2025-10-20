@@ -47,7 +47,7 @@ public final class SIGNI_B1_CodeMazeOokasoDissona extends Card {
 		setName("zh_simplified", "迷宫代号 往还//失调");
         setDescription("zh_simplified", 
                 "@C :对战对手的冻结状态的精灵因为与这只精灵的战斗被破坏的场合，放置到能量区，作为替代，放置到牌组最下面。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST | CardFlag.DISSONA);

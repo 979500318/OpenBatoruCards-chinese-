@@ -45,7 +45,7 @@ public final class SIGNI_B3_CodeLabyrinthNotreDame extends Card {
 		setName("zh_simplified", "迷牢代号 圣母院");
         setDescription("zh_simplified", 
                 "@U $T1 :主要阶段和攻击阶段期间，当对战对手抽1张牌时，对战对手把手牌1张舍弃。\n" +
-                "@U 当这只精灵被破坏时，可以把手牌2张舍弃。这样做的场合，这张精灵从能量区以#D状态出场。" +
+                "@U :当这只精灵被破坏时，可以把手牌2张舍弃。这样做的场合，这张精灵从能量区以横置状态出场。" +
                 "~#对战对手的精灵1只作为对象，可以把手牌2张舍弃。这样做的场合，将其破坏。\n"
         );
 

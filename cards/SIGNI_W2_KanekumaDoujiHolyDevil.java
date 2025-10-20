@@ -42,7 +42,7 @@ public final class SIGNI_W2_KanekumaDoujiHolyDevil extends Card {
 		setName("zh_simplified", "圣魔 金熊童子");
         setDescription("zh_simplified", 
                 "@U 你的主要阶段开始时，从你的废弃区把持有#G的精灵1张作为对象，可以把这只精灵从场上放置到废弃区并支付%X。这样做的场合，将其加入手牌。\n" +
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000。" +
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+4000。" +
                 "~#对战对手的分身1只作为对象，直到回合结束时为止，其得到\n" +
                 "@>@C :不能攻击。@@\n"
         );

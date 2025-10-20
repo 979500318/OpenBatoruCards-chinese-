@@ -33,7 +33,7 @@ public final class SIGNI_G3_WProjectorRoaringGun extends Card {
 
 		setName("zh_simplified", "轰炮 W投影");
         setDescription("zh_simplified", 
-                "@U $T1 :当你的《VJ.WOLF3rdVerse-ULT》#D时，你的场上的精灵的力量的合计在30000以上的场合，[[能量填充1]]。\n" +
+                "@U $T1 当你的《VJ.WOLF:3rdVerse-ULT》横置时，你的场上的精灵的力量的合计在30000以上的场合，[[能量填充1]]。\n" +
                 "@U :当这只精灵因为战斗把精灵1只破坏时，你的分身1只作为对象，可以支付%G。这样做的场合，将其竖直。\n"
         );
 

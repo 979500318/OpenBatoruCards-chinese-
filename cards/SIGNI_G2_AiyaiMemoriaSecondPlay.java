@@ -31,7 +31,7 @@ public final class SIGNI_G2_AiyaiMemoriaSecondPlay extends Card {
         
 		setName("zh_simplified", "贰之游 艾娅伊//回忆");
         setDescription("zh_simplified", 
-                "@A #D:从你的能量区把精灵1张作为对象，将其出场。\n"
+                "@A 横置:从你的能量区把精灵1张作为对象，将其出场。\n"
         );
 
         setType(CardType.SIGNI);

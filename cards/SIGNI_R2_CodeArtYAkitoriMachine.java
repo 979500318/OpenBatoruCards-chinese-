@@ -34,7 +34,7 @@ public final class SIGNI_R2_CodeArtYAkitoriMachine extends Card {
         
 		setName("zh_simplified", "必杀代号 烤串提灯");
         setDescription("zh_simplified", 
-                "@U 当你把魔法使用时，对战对手的力量5000以下的精灵1只作为对象，可以把竖直状态的这只精灵#D。这样做的场合，将其破坏。\n"
+                "@U :当你把魔法使用时，对战对手的力量5000以下的精灵1只作为对象，可以把竖直状态的这只精灵横置。这样做的场合，将其破坏。\n"
         );
 
         setType(CardType.SIGNI);

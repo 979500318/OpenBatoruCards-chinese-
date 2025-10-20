@@ -34,7 +34,7 @@ public final class SIGNI_W1_PeleHolyAngel extends Card {
         
 		setName("zh_simplified", "圣天 佩蕾");
         setDescription("zh_simplified", 
-                "@A %X#D:你的其他的<<天使>>精灵1只作为对象，将其返回手牌。\n"
+                "@A %X横置:你的其他的<<天使>>精灵1只作为对象，将其返回手牌。\n"
         );
 
         setType(CardType.SIGNI);

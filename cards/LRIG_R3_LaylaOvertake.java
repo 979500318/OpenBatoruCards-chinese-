@@ -50,7 +50,7 @@ public final class LRIG_R3_LaylaOvertake extends Card {
 
 		setName("zh_simplified", "蕾拉=超车");
         setDescription("zh_simplified", 
-                "@A #D:你的红色的精灵1只作为对象，直到回合结束时为止，其得到\n" +
+                "@A 横置:你的红色的精灵1只作为对象，直到回合结束时为止，其得到\n" +
                 "@>@U $T1 :当这只精灵攻击时，对战对手的力量8000以下的精灵1只作为对象，将其破坏。@@\n" +
                 "@A $G1 手牌全部舍弃:这个回合，当下一次这只分身攻击时，那次攻击期间，对战对手不能[[防御]]。\n"
         );

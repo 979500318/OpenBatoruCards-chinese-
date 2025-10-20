@@ -35,7 +35,7 @@ public final class SIGNI_K1_GefjonWickedAngel extends Card {
 
 		setName("zh_simplified", "凶天 葛冯");
         setDescription("zh_simplified", 
-                "@A #D:从你的牌组上面把3张牌放置到废弃区。" +
+                "@A 横置:从你的牌组上面把3张牌放置到废弃区。" +
                 "~#对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-8000。\n"
         );
 

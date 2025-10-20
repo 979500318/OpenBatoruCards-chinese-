@@ -46,7 +46,7 @@ public final class SIGNI_W2_DigiLockMediumTrap extends Card {
 		setName("zh_simplified", "中罠 电子锁");
         setDescription("zh_simplified", 
                 "@C :对战对手的回合期间，你的白色的精灵不会因为对战对手的效果把能力失去。\n" +
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵的力量+5000。" +
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+5000。" +
                 "~#抽1张牌。这个回合，你的手牌的精灵得到#G。（持有#G的精灵得到[[防御]]）\n"
         );
 

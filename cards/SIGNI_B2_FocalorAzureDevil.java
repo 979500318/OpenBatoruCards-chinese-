@@ -31,7 +31,7 @@ public final class SIGNI_B2_FocalorAzureDevil extends Card {
         
 		setName("zh_simplified", "苍魔 佛卡洛");
         setDescription("zh_simplified", 
-                "~#对战对手的精灵2只最多作为对象，将这些#D。抽1张牌。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

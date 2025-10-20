@@ -57,7 +57,7 @@ public final class SIGNI_G3_HideyoshiVerdantGeneralPrincess extends Card {
 		setName("zh_simplified", "翠将姬 丰臣秀吉");
         setDescription("zh_simplified", 
                 "@C 对战对手的精灵的@U@E@A能力发动的场合，可以从这只精灵的下面把2张牌放置到废弃区。这样做的场合，作为替代，发动的那个能力不能做任何事。\n" +
-                "@C 这只精灵因为对战对手的效果离场的场合，作为替代，可以从这只精灵的下面把2张牌放置到废弃区。这样做的场合，这只精灵#D。\n" +
+                "@C :这只精灵因为对战对手的效果离场的场合，作为替代，可以从这只精灵的下面把2张牌放置到废弃区。这样做的场合，这只精灵横置。\n" +
                 "@E :从你的能量区把牌4张最多放置到这只精灵的下面。\n"
         );
 

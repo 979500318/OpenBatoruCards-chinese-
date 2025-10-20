@@ -54,7 +54,7 @@ public final class ARTS_B_BlueOverdrive extends Card {
         setDescription("zh_simplified", 
                 "你的等级2以上的核心分身1只作为对象，直到下一个你的充能阶段结束时为止，其的界限+1，其得到以下的能力。\n" +
                 "@>@C :你受到伤害的场合，作为替代，可以把手牌1张舍弃。这样做的场合，这只分身的这个能力失去。\n" +
-                "@A $T1 #D抽4张牌，手牌2张舍弃。@@\n"
+                "@A $T1 :横置抽4张牌，手牌2张舍弃。@@\n"
         );
 
         setType(CardType.ARTS);

@@ -30,7 +30,7 @@ public final class LRIGA_B2_PirulukAnyChoice extends Card {
 
 		setName("zh_simplified", "皮璐璐可/A-C");
         setDescription("zh_simplified", 
-                "@E 对战对手的分身1只和对战对手的精灵1只作为对象，将这些#D。\n" +
+                "@E :对战对手的分身1只和对战对手的精灵1只作为对象，将这些横置。\n" +
                 "@E 手牌3张舍弃:对战对手的分身1只和对战对手的精灵1只作为对象，将这些冻结。\n"
         );
 

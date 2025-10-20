@@ -46,7 +46,7 @@ public final class SIGNI_K1_WalkureWickedAngel extends Card {
 		setName("zh_simplified", "凶天 瓦尔基丽");
         setDescription("zh_simplified", 
                 "@U $T1 :当你的《凶天姫　ヴァルキリー》1只攻击时，对战对手的精灵1只作为对象，从手牌把<<天使>>精灵任意张数舍弃。直到回合结束时为止，其的力量依据这个方法舍弃的牌的数量，每有1张就-4000。\n" +
-                "@A %K#D:从你的废弃区把黑色的<<天使>>精灵1张作为对象，将其加入手牌。\n"
+                "@A %K横置:从你的废弃区把黑色的<<天使>>精灵1张作为对象，将其加入手牌。\n"
         );
 
         setType(CardType.SIGNI);

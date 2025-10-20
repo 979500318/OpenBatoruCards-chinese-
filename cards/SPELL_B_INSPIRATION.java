@@ -37,7 +37,7 @@ public final class SPELL_B_INSPIRATION extends Card {
 		setName("zh_simplified", "INSPIRATION");
         setDescription("zh_simplified", 
                 "抽2张牌。可以从你的手牌把<<解放派>>精灵1张放置到你的<<解放派>>精灵1只的下面。" +
-                "~#对战对手的精灵2只最多作为对象，将这些#D。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

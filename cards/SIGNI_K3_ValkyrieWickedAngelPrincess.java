@@ -43,7 +43,7 @@ public final class SIGNI_K3_ValkyrieWickedAngelPrincess extends Card {
 		setName("zh_simplified", "凶天姬 瓦尔基里");
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，从你的废弃区把等级1的<<天使>>精灵1张作为对象，将其加入手牌。\n" +
-                "@U 当这只精灵被破坏时，可以从手牌把<<天使>>精灵2张舍弃。这样做的场合，这张精灵从能量区以#D状态出场。" +
+                "@U :当这只精灵被破坏时，可以从手牌把<<天使>>精灵2张舍弃。这样做的场合，这张精灵从能量区以横置状态出场。" +
                 "~#从你的废弃区把不持有#G的精灵1张作为对象，将其加入手牌或出场。\n"
         );
 

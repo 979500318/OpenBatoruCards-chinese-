@@ -28,7 +28,7 @@ public final class SIGNI_G1_KatakataFirstPlay extends Card {
 
 		setName("zh_simplified", "壹之游 滑梯小人");
         setDescription("zh_simplified", 
-                "@U 当这只精灵攻击时，那次攻击结束时，从你的能量区把等级1的<<遊具>>精灵1张作为对象，可以把场上的这只精灵放置到能量区。这样做的场合，将其以#D状态出场。其的@E能力不能发动。\n"
+                "@U 当这只精灵攻击时，那次攻击结束时，从你的能量区把等级1的<<遊具>>精灵1张作为对象，可以把场上的这只精灵放置到能量区。这样做的场合，将其以横置状态出场。其的@E能力不能发动。\n"
         );
 
         setType(CardType.SIGNI);

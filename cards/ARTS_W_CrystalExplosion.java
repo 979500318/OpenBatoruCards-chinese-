@@ -43,7 +43,7 @@ public final class ARTS_W_CrystalExplosion extends Card {
         setDescription("zh_simplified", 
                 "你的等级2以上的核心分身1只作为对象，直到下一个你的充能阶段结束时为止，其的界限+1，其得到以下的能力。\n" +
                 "@>@U :你的攻击阶段开始时，这只分身竖直。\n" +
-                "@A $T1 #D从你的牌组上面看4张牌。从中把牌2张最多加入手牌，剩下的任意顺序放置到牌组最下面。@@\n"
+                "@A $T1 :横置从你的牌组上面看4张牌。从中把牌2张最多加入手牌，剩下的任意顺序放置到牌组最下面。@@\n"
         );
 
         setType(CardType.ARTS);

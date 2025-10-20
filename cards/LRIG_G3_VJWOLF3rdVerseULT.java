@@ -41,7 +41,7 @@ public final class LRIG_G3_VJWOLF3rdVerseULT extends Card {
 
 		setName("zh_simplified", "VJ.WOLF 3rdVerse-ULT");
         setDescription("zh_simplified", 
-                "@A #D:你的精灵1只作为对象，直到回合结束时为止，其得到[[S枪兵]]。\n" +
+                "@A 横置:你的精灵1只作为对象，直到回合结束时为止，其得到[[S枪兵]]。\n" +
                 "@A $G1 氛围MAX%G0:直到回合结束时为止，这只分身得到\n" +
                 "@>@U $T2 :当因为你的效果1个往你的能量区把牌合计1张以上放置时，这只分身竖直。@@\n"
         );

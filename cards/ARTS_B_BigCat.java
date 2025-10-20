@@ -31,7 +31,7 @@ public final class ARTS_B_BigCat extends Card {
 		setName("zh_simplified", "巨化·喵咪");
         setDescription("zh_simplified", 
                 "赋能—%B%X（这张必杀使用时，可以作为使用费用追加把%B%X:支付）\n" +
-                "对战对手的力量10000以下的精灵1只作为对象，将其#D。你赋能的场合，抽4张牌，手牌2张舍弃。\n"
+                "对战对手的力量10000以下的精灵1只作为对象，将其横置。你赋能的场合，抽4张牌，手牌2张舍弃。\n"
         );
 
         setType(CardType.ARTS);

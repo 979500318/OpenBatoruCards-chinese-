@@ -32,7 +32,7 @@ public final class SIGNI_K2_MerlucciidaeWaterPhantom extends Card {
 
 		setName("zh_simplified", "幻水 无须鳕");
         setDescription("zh_simplified", 
-                "@A #D从能量区把<<水獣>>精灵1张放置到废弃区:从你的废弃区把<<水獣>>精灵1张作为对象，将其出场。" +
+                "@A 横置从能量区把<<水獣>>精灵1张放置到废弃区:从你的废弃区把<<水獣>>精灵1张作为对象，将其出场。" +
                 "~#对战对手的精灵1只作为对象，可以支付%X。这样做的场合，直到回合结束时为止，其的力量-12000。\n"
         );
 

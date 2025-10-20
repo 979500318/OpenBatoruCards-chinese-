@@ -42,7 +42,7 @@ public final class SIGNI_W3_ArcAthenaHolyAngel extends Card {
 		setName("zh_simplified", "圣天 大天使雅典娜");
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，你的场上有<<アーム>>精灵的场合，这只精灵竖直。\n" +
-                "@A %W#D:对战对手的力量8000以下的精灵1只作为对象，将其返回手牌。\n"
+                "@A %W横置:对战对手的力量8000以下的精灵1只作为对象，将其返回手牌。\n"
         );
 
         setType(CardType.SIGNI);

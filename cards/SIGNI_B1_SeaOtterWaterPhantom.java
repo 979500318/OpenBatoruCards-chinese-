@@ -29,7 +29,7 @@ public final class SIGNI_B1_SeaOtterWaterPhantom extends Card {
 		setName("zh_simplified", "幻水 海獭");
         setDescription("zh_simplified", 
                 "@E 从手牌把<<水獣>>精灵2张最多舍弃:依据这个方法舍弃的牌的数量，每有1张就抽1张牌。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

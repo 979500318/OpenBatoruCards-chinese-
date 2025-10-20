@@ -37,7 +37,7 @@ public final class SPELL_B_UPDATE extends Card {
         setDescription("zh_simplified", 
                 "你的<<電機>>精灵1只作为对象，直到回合结束时为止，其得到\n" +
                 "@>@U :当这只精灵攻击时，对战对手的精灵1只作为对象，如果对战对手不把手牌2张舍弃，那么将其破坏。@@" +
-                "~#对战对手的精灵2只最多作为对象，将这些#D。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

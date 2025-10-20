@@ -40,7 +40,7 @@ public final class LRIG_W3_MCLion3rdVerseULT extends Card {
 
 		setName("zh_simplified", "MC.LION 3rdVerse-ULT");
         setDescription("zh_simplified", 
-                "@A #D:对战对手的精灵1只作为对象，将其返回手牌。\n" +
+                "@A 横置:对战对手的精灵1只作为对象，将其返回手牌。\n" +
                 "@A $G1 氛围MAX%W0:直到回合结束时为止，这只分身得到\n" +
                 "@>@U $T2 :当因为你的效果1个把牌合计1张以上往你的手牌移动时，这只分身竖直。@@\n"
         );

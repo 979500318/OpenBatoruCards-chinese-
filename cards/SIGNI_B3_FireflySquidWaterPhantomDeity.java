@@ -42,7 +42,7 @@ public final class SIGNI_B3_FireflySquidWaterPhantomDeity extends Card {
         
 		setName("zh_simplified", "幻水神 荧光乌贼");
         setDescription("zh_simplified", 
-                "=H白色的分身1只（当这只精灵出场时，如果不把你的竖直状态的白色的分身1只#D，那么将此牌#D）\n" +
+                "=H白色的分身1只（当这只精灵出场时，如果不把你的竖直状态的白色的分身1只横置，那么将此牌横置）\n" +
                 "@U :你的攻击阶段开始时，抽1张牌。\n" +
                 "@U $T1 :当你因为自己的效果把牌1张以上舍弃时，不看对战对手的手牌选1张，舍弃。\n"
         );

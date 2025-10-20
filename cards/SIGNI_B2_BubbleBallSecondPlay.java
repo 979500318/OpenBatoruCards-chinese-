@@ -34,7 +34,7 @@ public final class SIGNI_B2_BubbleBallSecondPlay extends Card {
 		setName("zh_simplified", "贰之游 泡泡足球");
         setDescription("zh_simplified", 
                 "@U :你的回合结束时，这个回合这只精灵因为你的效果出场的场合，对战对手的精灵1只作为对象，将其放置到牌组最下面。" +
-                "~#对战对手的分身1只作为对象，将其#D。\n"
+                "~#对战对手的分身1只作为对象，将其横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

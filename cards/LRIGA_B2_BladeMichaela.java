@@ -35,8 +35,8 @@ public final class LRIGA_B2_BladeMichaela extends Card {
 
 		setName("zh_simplified", "刃·米卡伊来");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵2只最多作为对象，将这些#D。\n" +
-                "@E :手牌2张舍弃你的生命护甲的张数比对战对手少的场合，对战对手的精灵1只作为对象，将其#D。\n" +
+                "@E :对战对手的精灵2只最多作为对象，将这些横置。\n" +
+                "@E 手牌2张舍弃:你的生命护甲的张数比对战对手少的场合，对战对手的精灵1只作为对象，将其横置。\n" +
                 "（@E能力的:的左侧有费用。则可以选择不把费用支付，而不发动）\n"
         );
 

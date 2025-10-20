@@ -38,7 +38,7 @@ public final class SIGNI_W2_CodeArtAUtoDoor extends Card {
 		setName("zh_simplified", "必杀代号 自动门");
         setDescription("zh_simplified", 
                 "@C :你的废弃区的魔法在3张以上时，这只精灵的力量+4000。\n" +
-                "@A #D从手牌把魔法1张舍弃:对战对手的力量5000以下的精灵1只作为对象，将其返回手牌。\n"
+                "@A 横置从手牌把魔法1张舍弃:对战对手的力量5000以下的精灵1只作为对象，将其返回手牌。\n"
         );
 
         setType(CardType.SIGNI);

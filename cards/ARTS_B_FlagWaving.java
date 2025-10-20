@@ -29,7 +29,7 @@ public final class ARTS_B_FlagWaving extends Card {
 
 		setName("zh_simplified", "旗帜·飘扬");
         setDescription("zh_simplified", 
-                "对战对手的精灵1只作为对象，将其#D。抽2张牌，手牌1张舍弃。\n"
+                "对战对手的精灵1只作为对象，将其横置。抽2张牌，手牌1张舍弃。\n"
         );
 
         setType(CardType.ARTS);

@@ -48,8 +48,8 @@ public final class SIGNI_W3_ZhugeLiangHolyGeneralPrincess extends Card {
 		setName("zh_simplified", "圣将姬 孔明");
         setDescription("zh_simplified", 
                 "=H绿色的分身1只\n" +
-                "@U 当你的白色的分身1只攻击时，可以把你的竖直状态的精灵2只#D并支付%W%X。这样做的场合，那只分身竖直，直到回合结束时为止，那只分身的能力失去。\n" +
-                "@U :当竖直状态的这只精灵被破坏时，可以支付%W%X %X。这样做的场合，这张精灵从能量区以#D状态出场。\n"
+                "@U :当你的白色的分身1只攻击时，可以把你的竖直状态的精灵2只横置并支付%W%X。这样做的场合，那只分身竖直，直到回合结束时为止，那只分身的能力失去。\n" +
+                "@U :当竖直状态的这只精灵被破坏时，可以支付%W%X %X。这样做的场合，这张精灵从能量区以横置状态出场。\n"
         );
 
         setType(CardType.SIGNI);

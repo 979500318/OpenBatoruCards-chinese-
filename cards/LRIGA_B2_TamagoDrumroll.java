@@ -28,7 +28,7 @@ public final class LRIGA_B2_TamagoDrumroll extends Card {
         
 		setName("zh_simplified", "玉子=敲敲");
         setDescription("zh_simplified", 
-                "@E 对战对手的全部的精灵#D。\n"
+                "@E :对战对手的全部的精灵横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

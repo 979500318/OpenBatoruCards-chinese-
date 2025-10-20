@@ -32,7 +32,7 @@ public final class SIGNI_K2_BuneWickedDevil extends Card {
 
 		setName("zh_simplified", "凶魔 布涅");
         setDescription("zh_simplified", 
-                "@A %K#D:从你的废弃区把<<悪魔>>精灵1张作为对象，将其出场。" +
+                "@A %K横置:从你的废弃区把<<悪魔>>精灵1张作为对象，将其出场。" +
                 "~#从你的废弃区把<<悪魔>>精灵1张作为对象，将其加入手牌或出场。\n"
         );
 

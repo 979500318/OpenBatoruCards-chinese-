@@ -30,7 +30,7 @@ public final class SIGNI_B2_SeaSnakePhantomDragon extends Card {
 		setName("zh_simplified", "幻龙 海蛇");
         setDescription("zh_simplified", 
                 "@U 当这只精灵攻击时，如果对战对手不把%X:支付，那么对战对手把手牌1张舍弃。" +
-                "~#对战对手的分身1只作为对象，将其#D。\n"
+                "~#对战对手的分身1只作为对象，将其横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

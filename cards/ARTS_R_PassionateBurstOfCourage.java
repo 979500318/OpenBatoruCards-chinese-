@@ -48,7 +48,7 @@ public final class ARTS_R_PassionateBurstOfCourage extends Card {
         setDescription("zh_simplified", 
                 "你的等级2以上的核心分身1只作为对象，直到下一个你的充能阶段结束时为止，其的界限+1，其得到以下的能力。\n" +
                 "@>@C :你的手牌在3张以下时，你不会因为对战对手的分身受到伤害。\n" +
-                "@A $T1 #D抽2张牌或[[能量填充2]]。@@\n"
+                "@A $T1 :横置抽2张牌或[[能量填充2]]。@@\n"
         );
 
         setType(CardType.ARTS);

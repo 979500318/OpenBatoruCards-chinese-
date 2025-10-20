@@ -33,7 +33,7 @@ public final class RESONA_B3_YmirAzureSkyGeneralPrincess extends Card {
 		setName("zh_simplified", "苍穹将姬 尤弥尔");
         setDescription("zh_simplified", 
                 "[[出现条件]]主要阶段从手牌和能量区把精灵合计3张放置到废弃区\n" +
-                "@U 你的攻击阶段开始时，对战对手的冻结状态的全部的精灵#D，对战对手的其他的全部的精灵冻结。\n" +
+                "@U :你的攻击阶段开始时，对战对手的冻结状态的全部的精灵横置，对战对手的其他的全部的精灵冻结。\n" +
                 "@E :对战对手的分身1只作为对象，将其冻结。\n"
         );
 

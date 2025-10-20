@@ -45,7 +45,7 @@ public final class SPELL_B_DEEPFREEZE extends Card {
 		setName("zh_simplified", "DEEP　FREEZE");
         setDescription("zh_simplified", 
                 "对战对手的全部的精灵冻结。下一个对战对手的竖直阶段，如果对战对手不把手牌1张舍弃或支付%X，那么对战对手的核心分身不能竖直。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。对战对手把手牌1张舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。对战对手把手牌1张舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST | CardFlag.DISSONA);

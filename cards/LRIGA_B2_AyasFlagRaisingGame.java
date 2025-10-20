@@ -33,7 +33,7 @@ public final class LRIGA_B2_AyasFlagRaisingGame extends Card {
 		setName("zh_simplified", "亚弥的举旗游戏！");
         setDescription("zh_simplified", 
                 "@E :抽3张牌。\n" +
-                "@E 从你的手牌把牌1张最多里向放置到分身区。下一个对战对手的攻击阶段开始时，那张牌表向放置到废弃区，与那张牌相同等级的对战对手的全部的精灵#D。\n"
+                "@E :从你的手牌把牌1张最多里向放置到分身区。下一个对战对手的攻击阶段开始时，那张牌表向放置到废弃区，与那张牌相同等级的对战对手的全部的精灵横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

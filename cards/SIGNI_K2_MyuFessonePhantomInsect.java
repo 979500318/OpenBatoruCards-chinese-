@@ -41,7 +41,7 @@ public final class SIGNI_K2_MyuFessonePhantomInsect extends Card {
 		setName("zh_simplified", "幻虫 缪//音乐节");
         setDescription("zh_simplified", 
                 "@C :对战对手不能在中央的精灵区把等级3以上的精灵新配置。\n" +
-                "@A #D:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-2000。\n"
+                "@A 横置:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-2000。\n"
         );
 
         setType(CardType.SIGNI);

@@ -35,7 +35,7 @@ public final class LRIGA_B2_MilulunCatch extends Card {
 
 		setName("zh_simplified", "米璐璐恩☆捕捉");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵2只最多作为对象，将这些#D。\n" +
+                "@E :对战对手的精灵2只最多作为对象，将这些横置。\n" +
                 "@E %B:不看对战对手的手牌选1张，舍弃。\n" +
                 "（@E能力的:的左侧有费用。则可以选择不把费用支付，而不发动）\n"
         );

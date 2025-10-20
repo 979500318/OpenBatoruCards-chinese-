@@ -39,7 +39,7 @@ public final class SIGNI_G3_GrizzlyPhantomBeastDeity extends Card {
 		setName("zh_simplified", "幻兽神 灰熊");
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，这只精灵的力量在20000以上的场合，对战对手的力量8000以下的精灵1只作为对象，将其破坏。这只精灵的力量在30000以上的场合，作为替代，对战对手的力量12000以下的精灵1只作为对象，将其破坏。\n" +
-                "@A $T1 竖直状态的其他的精灵1只#D直到回合结束时为止，这只精灵的力量+（加号）与这个方法#D的精灵的力量相同的数值。\n"
+                "@A $T1 竖直状态的其他的精灵1只横置:直到回合结束时为止，这只精灵的力量+（加号）与这个方法横置的精灵的力量相同的数值。\n"
         );
 
         setType(CardType.SIGNI);

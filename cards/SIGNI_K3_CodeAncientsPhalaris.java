@@ -38,7 +38,7 @@ public final class SIGNI_K3_CodeAncientsPhalaris extends Card {
         
 		setName("zh_simplified", "古神代号 法拉里斯牛");
         setDescription("zh_simplified", 
-                "=H分身2只（当这只精灵出场时，如果不把你的竖直状态的分身2只#D，那么将此牌#D）\n" +
+                "=H分身2只（当这只精灵出场时，如果不把你的竖直状态的分身2只横置，那么将此牌横置）\n" +
                 "@U :当这只精灵因为战斗把对战对手的精灵破坏时，从对战对手的牌组上面把10张牌放置到废弃区。\n"
         );
 

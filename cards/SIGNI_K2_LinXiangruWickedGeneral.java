@@ -30,7 +30,7 @@ public final class SIGNI_K2_LinXiangruWickedGeneral extends Card {
 
 		setName("zh_simplified", "凶将 蔺相如");
         setDescription("zh_simplified", 
-                "@A #D从能量区把<<武勇>>精灵1张放置到废弃区:从你的废弃区把<<武勇>>精灵1张作为对象，将其出场。" +
+                "@A 横置从能量区把<<武勇>>精灵1张放置到废弃区:从你的废弃区把<<武勇>>精灵1张作为对象，将其出场。" +
                 "~#从你的废弃区把精灵1张作为对象，将其加入手牌。\n"
         );
 

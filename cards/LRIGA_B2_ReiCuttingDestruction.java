@@ -36,8 +36,8 @@ public final class LRIGA_B2_ReiCuttingDestruction extends Card {
         
 		setName("zh_simplified", "令＊斩破");
         setDescription("zh_simplified", 
-                "@E 对战对手的精灵2只最多作为对象，将这些#D。\n" +
-                "@E %B%X %X对战对手的精灵1只作为对象，将其#D。\n"
+                "@E :对战对手的精灵2只最多作为对象，将这些横置。\n" +
+                "@E %B%X %X:对战对手的精灵1只作为对象，将其横置。\n"
         );
 
         setType(CardType.LRIG_ASSIST);

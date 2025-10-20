@@ -48,7 +48,7 @@ public final class SIGNI_G3_CodeHeartPirulukWattMemoria extends Card {
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，你的牌组最上面公开。那张牌是魔法的场合，抽1张牌。不是的场合，[[能量填充1]]。\n" +
                 "@A $T1 %X从手牌把魔法1张舍弃:你的精灵1只作为对象，直到回合结束时为止，其得到\n" +
-                "@>@A $T1 #D:比这只精灵的力量低的对战对手的精灵1只作为对象，将其破坏。@@\n"
+                "@>@A $T1 横置:比这只精灵的力量低的对战对手的精灵1只作为对象，将其破坏。@@\n"
         );
 
         setType(CardType.SIGNI);

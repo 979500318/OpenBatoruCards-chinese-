@@ -35,7 +35,7 @@ public final class SIGNI_B1_KotoriToyomi extends Card {
 		setName("zh_simplified", "丰见亚都梨");
         setDescription("zh_simplified", 
                 "@U :你的回合结束时，可以把手牌1张舍弃。这样做的场合，直到下一个对战对手的回合结束时为止，你的全部的<<ブルアカ>>精灵的力量+4000。\n" +
-                "~{{U你的攻击阶段开始时，可以把竖直状态的这只精灵#D。这样做的场合，抽1张牌。@@\n"
+                "~{{U:你的攻击阶段开始时，可以把竖直状态的这只精灵横置。这样做的场合，抽1张牌。@@\n"
         );
 
         setType(CardType.SIGNI);

@@ -33,7 +33,7 @@ public final class SIGNI_R3_BurningChorizoGreatTrap extends Card {
 		setName("zh_simplified", "大罠 燃烧香肠");
         setDescription("zh_simplified", 
                 "@U 当这只精灵攻击时，你的场上有《ちより　第三章》的场合，可以把与这只精灵相同精灵区的[[魔术箱]]1个表向并放置到废弃区。然后，那张牌持有##的场合，对战对手的精灵1只作为对象，将其破坏。不持有##的场合，这次攻击无效，如果对战对手不把%X %X %X %X %X:支付，那么给予对战对手伤害。\n" +
-                "@E 场上没有其他的<<トリック>>精灵的场合，这只精灵#D。\n"
+                "@E :场上没有其他的<<トリック>>精灵的场合，这只精灵横置。\n"
         );
 
         setType(CardType.SIGNI);

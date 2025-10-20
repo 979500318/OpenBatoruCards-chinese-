@@ -32,7 +32,7 @@ public final class SIGNI_K2_ZweiDagger extends Card {
         
 		setName("zh_simplified", "ZWEI=毒匕首");
         setDescription("zh_simplified", 
-                "@A #D:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-2000。你的废弃区的牌在15张以上的场合，作为替代，直到回合结束时为止，其的力量-5000。\n"
+                "@A 横置:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-2000。你的废弃区的牌在15张以上的场合，作为替代，直到回合结束时为止，其的力量-5000。\n"
         );
 
         setType(CardType.SIGNI);

@@ -45,7 +45,7 @@ public final class SIGNI_R3_HiranaMemoriaCrimsonAngelPrincess extends Card {
         
 		setName("zh_simplified", "红天姬 平和//回忆");
         setDescription("zh_simplified", 
-                "@U :当这只精灵被破坏时，可以支付%X %X。这样做的场合，从你的手牌把白色或蓝色的精灵1张以#D状态出场。那只精灵的@E能力不能发动。\n" +
+                "@U :当这只精灵被破坏时，可以支付%X %X。这样做的场合，从你的手牌把白色或蓝色的精灵1张以横置状态出场。那只精灵的@E能力不能发动。\n" +
                 "@A @[超越 4]@:你的能量区和生命护甲的全部的牌放置到废弃区，手牌全部舍弃。抽2张牌并[[能量填充2]]。" +
                 "~#以下选1种。\n" +
                 "$$1 对战对手的竖直状态的精灵1只作为对象，将其破坏。\n" +

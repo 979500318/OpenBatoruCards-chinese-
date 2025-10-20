@@ -32,7 +32,7 @@ public final class SIGNI_B1_SharkSpearAzureDevil extends Card {
         
 		setName("zh_simplified", "苍魔 夏克丝比");
         setDescription("zh_simplified", 
-                "@A #D:从你的牌组上面把3张牌放置到废弃区。然后，你的废弃区的牌在20张以上的场合，可以支付%X %X。这样做的场合，从你的废弃区把<<悪魔>>精灵1张作为对象，将其加入手牌。\n"
+                "@A 横置:从你的牌组上面把3张牌放置到废弃区。然后，你的废弃区的牌在20张以上的场合，可以支付%X %X。这样做的场合，从你的废弃区把<<悪魔>>精灵1张作为对象，将其加入手牌。\n"
         );
 
         setType(CardType.SIGNI);

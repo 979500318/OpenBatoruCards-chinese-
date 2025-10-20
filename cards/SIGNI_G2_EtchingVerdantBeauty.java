@@ -33,7 +33,7 @@ public final class SIGNI_G2_EtchingVerdantBeauty extends Card {
 		setName("zh_simplified", "翠美 蚀刻版画");
         setDescription("zh_simplified", 
                 "@C :你的能量区有<<美巧>>精灵时，这只精灵的力量+2000。\n" +
-                "@A #D从能量区把<<美巧>>精灵1张放置到废弃区:对战对手的力量5000以下的精灵1只作为对象，将其放置到能量区。\n"
+                "@A 横置从能量区把<<美巧>>精灵1张放置到废弃区:对战对手的力量5000以下的精灵1只作为对象，将其放置到能量区。\n"
         );
 
         setType(CardType.SIGNI);

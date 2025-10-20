@@ -35,7 +35,7 @@ public final class SIGNI_B3_AssylenNaturalStone extends Card {
 		setName("zh_simplified", "罗石 亚述水晶透镜");
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，这只精灵的力量在15000以上的场合，对战对手把手牌1张舍弃。20000以上的场合，作为替代，不看对战对手的手牌选1张，舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。抽1张牌。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。抽1张牌。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

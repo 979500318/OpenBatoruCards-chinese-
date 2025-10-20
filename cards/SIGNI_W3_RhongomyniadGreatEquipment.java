@@ -38,7 +38,7 @@ public final class SIGNI_W3_RhongomyniadGreatEquipment extends Card {
         
 		setName("zh_simplified", "大装 圣枪伦戈米尼亚德");
         setDescription("zh_simplified", 
-                "@U 当你的分身1只攻击时，可以把你的竖直状态的白色的精灵3只#D并支付%W。这样做的场合，那只分身竖直，直到回合结束时为止，那只分身的能力失去。\n"
+                "@U :当你的分身1只攻击时，可以把你的竖直状态的白色的精灵3只横置并支付%W。这样做的场合，那只分身竖直，直到回合结束时为止，那只分身的能力失去。\n"
         );
 
         setType(CardType.SIGNI);

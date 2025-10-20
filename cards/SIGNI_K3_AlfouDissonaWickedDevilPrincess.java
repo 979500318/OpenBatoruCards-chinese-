@@ -41,7 +41,7 @@ public final class SIGNI_K3_AlfouDissonaWickedDevilPrincess extends Card {
 		setName("zh_simplified", "凶魔姬 阿尔芙//失调");
         setDescription("zh_simplified", 
                 "@U :当在你的主要阶段以外把这只精灵离场时，从对战对手的牌组上面把4张牌放置到废弃区。\n" +
-                "@A 竖直状态的分身2只#D:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-5000。\n"
+                "@A 竖直状态的分身2只横置:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-5000。\n"
         );
 
         setCardFlags(CardFlag.DISSONA);

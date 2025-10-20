@@ -38,7 +38,7 @@ public final class SIGNI_W1_KamakamaSmallEquipment extends Card {
 
 		setName("zh_simplified", "小装 镰镰");
         setDescription("zh_simplified", 
-                "@A #D:直到下一个对战对手的回合结束时为止，这只精灵的力量+7000。" +
+                "@A 横置:直到下一个对战对手的回合结束时为止，这只精灵的力量+7000。" +
                 "~#抽1张牌。这个回合，你的手牌的精灵得到#G。（持有#G的精灵得到[[防御]]）\n"
         );
 

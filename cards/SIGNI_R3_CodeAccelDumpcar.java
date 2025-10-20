@@ -50,7 +50,7 @@ public final class SIGNI_R3_CodeAccelDumpcar extends Card {
         setDescription("zh_simplified", 
                 "=R在你的红色的精灵3只的上面放置\n" +
                 "@C :这只精灵的下面有等级1的精灵时，得到\n" +
-                "@>@C 不会因为对战对手的效果#D。@@\n" +
+                "@>@C :不会因为对战对手的效果横置。@@\n" +
                 "。有等级2的精灵时，得到\n" +
                 "@>@C :不会因为对战对手的效果新得到能力。@@\n" +
                 "。有等级3的精灵时，得到\n" +

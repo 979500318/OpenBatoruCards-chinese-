@@ -45,7 +45,7 @@ public final class LRIG_W3_RuukoKominatoFullMoonApostle extends Card {
 		setName("zh_simplified", "满月的使徒 小凑露子");
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，你的场上有<<悪魔>>精灵的场合，抽1张牌。有<<天使>>精灵的场合，[[能量填充1]]。\n" +
-                "@A $G1 梦限之理#D:对战对手的核心分身在等级3以上的场合，各玩家把自己的手牌和精灵区和能量区和废弃区的，全部的衍生从游戏除外，全部的牌加入牌组洗切，抽6张牌。这个回合，对战对手不会受到伤害。\n"
+                "@A $G1 梦限之理横置:对战对手的核心分身在等级3以上的场合，各玩家把自己的手牌和精灵区和能量区和废弃区的，全部的衍生从游戏除外，全部的牌加入牌组洗切，抽6张牌。这个回合，对战对手不会受到伤害。\n"
         );
 
         setLRIGType(CardLRIGType.RUUKO);

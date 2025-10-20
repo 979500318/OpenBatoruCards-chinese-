@@ -40,7 +40,7 @@ public final class SPELL_B_DISCOVERY extends Card {
 		setName("zh_simplified", "DISCOVERY");
         setDescription("zh_simplified", 
                 "从你的牌组上面看5张牌。从中把《幻水姫　エルドラ//メモリア》1张最多公开加入手牌，1张牌返回牌组最上面，剩下的任意顺序放置到牌组最下面。" +
-                "~#对战对手的精灵2只最多作为对象，将这些#D。\n"
+                "~#对战对手的精灵2只最多作为对象，将这些横置。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

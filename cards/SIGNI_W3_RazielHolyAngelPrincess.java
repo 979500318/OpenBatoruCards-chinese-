@@ -34,7 +34,7 @@ public final class SIGNI_W3_RazielHolyAngelPrincess extends Card {
 
 		setName("zh_simplified", "圣天姬 拉结尔");
         setDescription("zh_simplified", 
-                "@U 你的攻击阶段开始时，你的竖直状态的白色的精灵任意数量#D。然后，等级在这个方法#D的精灵的数量以下的对战对手的精灵1只作为对象，将其返回手牌。\n" +
+                "@U :你的攻击阶段开始时，你的竖直状态的白色的精灵任意数量横置。然后，等级在这个方法横置的精灵的数量以下的对战对手的精灵1只作为对象，将其返回手牌。\n" +
                 "@U :你的回合结束时，你的其他的精灵1只作为对象，直到下一个对战对手的回合结束时为止，其的力量+2000。\n"
         );
 

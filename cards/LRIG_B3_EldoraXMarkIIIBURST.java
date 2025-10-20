@@ -42,7 +42,7 @@ public final class LRIG_B3_EldoraXMarkIIIBURST extends Card {
         setDescription("zh_simplified", 
                 "@U 你的攻击阶段开始时，你的场上有<<水獣>>精灵的场合，抽1张牌，对战对手的牌组最上面公开。公开的那张牌持有##的场合，抽1张牌。\n" +
                 "@A $G1 :请求%B0这个回合和下一个回合期间，你的全部的领域的牌得到##\n" +
-                "@>抽1张牌。然后，对战对手的精灵1只作为对象，可以把手牌2张舍弃。这样做的场合，将其#D。@@\n"
+                "@>:抽1张牌。然后，对战对手的精灵1只作为对象，可以把手牌2张舍弃。这样做的场合，将其横置。@@\n"
         );
 
         setType(CardType.LRIG);

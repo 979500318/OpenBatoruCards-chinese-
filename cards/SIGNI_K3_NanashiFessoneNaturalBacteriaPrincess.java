@@ -47,8 +47,8 @@ public final class SIGNI_K3_NanashiFessoneNaturalBacteriaPrincess extends Card {
 		setName("zh_simplified", "罗菌姬 无名//音乐节");
         setDescription("zh_simplified", 
                 "@U :你的攻击阶段开始时，这只精灵在觉醒状态的场合，对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-8000。\n" +
-                "@E 竖直状态的分身2只#D:这只精灵觉醒。\n" +
-                "@A #D:从你的牌组上面把3张牌放置到废弃区。\n" +
+                "@E 竖直状态的分身2只横置:这只精灵觉醒。\n" +
+                "@A 横置:从你的牌组上面把3张牌放置到废弃区。\n" +
                 "@A $T2 #C:对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-2000。\n"
         );
 

@@ -41,9 +41,9 @@ public final class SIGNI_B3_SaprolegniaNaturalPaleBacteria extends Card {
 		setName("zh_simplified", "罗淡菌 水霉菌");
         setDescription("zh_simplified", 
                 "@U :当这只精灵被破坏时，从以下的2种选1种。\n" +
-                "$$1 对战对手的精灵1只作为对象，将其#D并冻结。\n" +
+                "$$1 对战对手的精灵1只作为对象，将其横置并冻结。\n" +
                 "$$2 不看对战对手的手牌选1张，舍弃。" +
-                "~#对战对手的精灵1只作为对象，将其#D并冻结。不看对战对手的手牌选1张，舍弃。\n"
+                "~#对战对手的精灵1只作为对象，将其横置并冻结。不看对战对手的手牌选1张，舍弃。\n"
         );
 
         setCardFlags(CardFlag.LIFEBURST);

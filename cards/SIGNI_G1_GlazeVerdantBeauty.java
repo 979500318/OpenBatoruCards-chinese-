@@ -29,7 +29,7 @@ public final class SIGNI_G1_GlazeVerdantBeauty extends Card {
 
 		setName("zh_simplified", "翠美 釉画");
         setDescription("zh_simplified", 
-                "@A #D:你的<<美巧>>精灵1只作为对象，直到下一个对战对手的回合结束时为止，其的力量+5000。" +
+                "@A 横置:你的<<美巧>>精灵1只作为对象，直到下一个对战对手的回合结束时为止，其的力量+5000。" +
                 "~#[[能量填充1]]。这个回合，下一次你因为精灵受到伤害的场合，作为替代，不会受到伤害。\n"
         );
 

@@ -41,7 +41,7 @@ public final class SIGNI_R3_HecklerRoaringCenterGun extends Card {
 		setName("zh_simplified", "轰中炮 黑克勒");
         setDescription("zh_simplified", 
                 "[[交错]]《爆左砲　コック》的右侧或《爆右砲　セイデル》的左侧\n" +
-                "@A $T1 竖直状态的<<ウェポン>>精灵1只#D:[[能量填充1]]\n" +
+                "@A $T1 竖直状态的<<ウェポン>>精灵1只横置:[[能量填充1]]\n" +
                 "[交错]@U $T1 当这只精灵达成[天堂]时，你的场上有《合炎奇炎:玉依姬之参》的场合，可以从你的能量区把<<ウェポン>>精灵2张放置到废弃区。这样做的场合，给予对战对手伤害。\n"
         );
 

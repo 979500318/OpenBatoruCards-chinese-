@@ -51,7 +51,7 @@ public final class LRIG_W3_TamayorihimePerformingMoonMiko extends Card {
         
 		setName("zh_simplified", "奏月的巫女 玉依姬");
         setDescription("zh_simplified", 
-                "@U $T1 当这只分身攻击时，可以把你的竖直状态的精灵2只#D并支付%W%X。这样做的场合，这只分身竖直，直到回合结束时为止，这只分身的能力失去。\n" +
+                "@U $T1 :当这只分身攻击时，可以把你的竖直状态的精灵2只横置并支付%W%X。这样做的场合，这只分身竖直，直到回合结束时为止，这只分身的能力失去。\n" +
                 "@E :从你的牌组上面看4张牌。从中把牌2张最多加入手牌，剩下的任意顺序放置到牌组最下面。\n" +
                 "@A $G1 %W0:直到回合结束时为止，这只分身得到\n" +
                 "@>@U $T1 :当这只分身攻击时，你的全部的精灵竖直。@@\n"

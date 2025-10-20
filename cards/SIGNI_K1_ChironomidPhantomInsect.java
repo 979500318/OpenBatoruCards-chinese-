@@ -31,7 +31,7 @@ public final class SIGNI_K1_ChironomidPhantomInsect extends Card {
 
 		setName("zh_simplified", "幻虫 摇蚊");
         setDescription("zh_simplified", 
-                "@U 当这只精灵攻击时，你的竖直状态的分身任意数量#D。从对战对手的牌组上面把这个方法#D的分身的等级的合计加1的张数的牌放置到废弃区。" +
+                "@U :当这只精灵攻击时，你的竖直状态的分身任意数量横置。从对战对手的牌组上面把这个方法横置的分身的等级的合计加1的张数的牌放置到废弃区。" +
                 "~#对战对手的精灵1只作为对象，直到回合结束时为止，其的力量-8000。\n"
         );
 

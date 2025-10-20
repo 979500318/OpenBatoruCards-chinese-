@@ -36,7 +36,7 @@ public final class SIGNI_W3_YRecorderGunGreatTrap extends Card {
 		setName("zh_simplified", "大罠 Y转轮手枪");
         setDescription("zh_simplified", 
                 "@U :当这只精灵攻击时，对战对手可以支付%X %X。这样做的场合，那次攻击无效。\n" +
-                "@A 竖直状态的其他的精灵1只#D:你的场上有《ゆかゆか☆さんさんきらきら》的场合，直到下一个对战对手的回合结束时为止，这只精灵得到[[暗杀（等级2以下的精灵）]]或[[暗影（等级3以上的精灵）]]。\n"
+                "@A 竖直状态的其他的精灵1只横置:你的场上有《ゆかゆか☆さんさんきらきら》的场合，直到下一个对战对手的回合结束时为止，这只精灵得到[[暗杀（等级2以下的精灵）]]或[[暗影（等级3以上的精灵）]]。\n"
         );
 
         setType(CardType.SIGNI);

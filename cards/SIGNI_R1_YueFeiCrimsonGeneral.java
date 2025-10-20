@@ -31,7 +31,7 @@ public final class SIGNI_R1_YueFeiCrimsonGeneral extends Card {
         
 		setName("zh_simplified", "红将 岳飞");
         setDescription("zh_simplified", 
-                "@A #D:对战对手的力量2000以下的精灵1只作为对象，将其破坏。这只精灵的力量在5000以上的场合，作为替代，对战对手的力量5000以下的精灵1只作为对象，将其破坏。\n"
+                "@A 横置:对战对手的力量2000以下的精灵1只作为对象，将其破坏。这只精灵的力量在5000以上的场合，作为替代，对战对手的力量5000以下的精灵1只作为对象，将其破坏。\n"
         );
 
         setType(CardType.SIGNI);

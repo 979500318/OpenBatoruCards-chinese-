@@ -34,7 +34,7 @@ public final class SIGNI_R3_MandrillPhantomBeast extends Card {
         
 		setName("zh_simplified", "幻兽 山魈");
         setDescription("zh_simplified", 
-                "@A %R%X#D:这只精灵的力量在12000以上的场合，对战对手的精灵1只作为对象，将其破坏。\n"
+                "@A %R%X横置:这只精灵的力量在12000以上的场合，对战对手的精灵1只作为对象，将其破坏。\n"
         );
 
         setType(CardType.SIGNI);

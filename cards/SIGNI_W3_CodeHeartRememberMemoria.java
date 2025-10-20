@@ -59,8 +59,8 @@ public final class SIGNI_W3_CodeHeartRememberMemoria extends Card {
 		setName("zh_simplified", "爱心代号  忆//回忆");
         setDescription("zh_simplified", 
                 "@C $TP 对战对手的，核心分身和精灵的@A能力的使用费用增%X。\n" +
-                "@C 这只精灵在#D状态时，这只精灵的力量+3000，对战对手如果不追加把%X:支付，那么不能[[防御]]。\n" +
-                "@A #D:看你的生命护甲最上面。" +
+                "@C 这只精灵在横置状态时，这只精灵的力量+3000，对战对手如果不追加把%X:支付，那么不能[[防御]]。\n" +
+                "@A 横置:看你的生命护甲最上面。" +
                 "~#以下选1种。\n" +
                 "$$1 对战对手的竖直状态的精灵1只作为对象，将其返回手牌。\n" +
                 "$$2 抽1张牌。\n"
