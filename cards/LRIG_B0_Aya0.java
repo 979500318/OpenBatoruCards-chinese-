@@ -11,7 +11,7 @@ public final class LRIG_B0_Aya0 extends Card {
     
     public LRIG_B0_Aya0()
     {
-        setImageSets("PR-340", Mask.IGNORE+"WX21-GC06", "SP20-003","SP21-003","SP29-004","SP30-004","SP34-005","SP35-018", "PR-344", "WXDi-P07-019", "SPDi01-39","SPDi14-07");
+        setImageSets("PR-340", Mask.IGNORE+"WX21-GC06", "SP20-003","SP21-003","SP29-004","SP30-004","SP34-005","SP35-018", "PR-344", "WXDi-P07-019", "SPDi01-39","SPDi14-07","SPDi42-11P");
         
         setOriginalName("あーや！０");
         setAltNames("アーヤゼロ Aaya Zero");

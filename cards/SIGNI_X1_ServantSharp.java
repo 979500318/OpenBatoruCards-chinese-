@@ -23,7 +23,7 @@ public final class SIGNI_X1_ServantSharp extends Card {
         "SPDi26-02","SPDi26-03","SPDi26-04","SPDi26-05","SPDi26-06","SPDi26-07","SPDi26-08","SPDi26-09","SPDi26-10","SPDi26-11",
         "SPDi29-02","SPDi30-01","SPDi33-01","SPDi33-02","SPDi33-03","SPDi33-04","SPDi33-05","SPDi39-01","SPDi39-02","SPDi39-03",
         "SPDi44-17",
-        "PR-Di001","PR-Di009","PR-Di010","PR-Di016","PR-Di018","PR-Di019","PR-Di024","PR-Di032");
+        "PR-Di001","PR-Di009","PR-Di010","PR-Di016","PR-Di018","PR-Di019","PR-Di024","PR-Di032","PR-Di049");
         
         setOriginalName("サーバント　#");
         setAltNames("サーバントシャープ Saabanto Shaapu Servant Sharp Servant ♯");

@@ -2,7 +2,6 @@ package open.batoru.data.cards;
 
 import open.batoru.core.Deck.DeckPosition;
 import open.batoru.core.gameplay.CardIndex;
-import open.batoru.core.gameplay.GameConst.CardLocation;
 import open.batoru.core.gameplay.GameConst.GameEventId;
 import open.batoru.core.gameplay.GameLog;
 import open.batoru.core.gameplay.pickers.TargetFilter;
@@ -83,9 +82,11 @@ public final class SIGNI_K4_YamiganeSuperTrap extends Card {
             if(target != null)
             {
                 int level = target.getIndexedInstance().getLevel().getValue();
-                if(trash(target) && target.getLocation() == CardLocation.TRASH)
+                if(trash(target))
                 {
-                    CardIndex cardIndexSIGNI = revealUntil(getOpponent(), cardIndex -> cardIndex.getIndexedInstance().getLevel().getValue() <= level);
+                    CardIndex cardIndexSIGNI = revealUntil(getOpponent(), cardIndex ->
+                        CardType.isSIGNI(cardIndex.getCardReference().getType()) && cardIndex.getIndexedInstance().getLevel().getValue() <= level
+                    );
                     putOnField(cardIndexSIGNI, Enter.DONT_ACTIVATE);
                     
                     int countReturned = returnToDeck(getCardsInRevealed(getOpponent()), DeckPosition.BOTTOM);

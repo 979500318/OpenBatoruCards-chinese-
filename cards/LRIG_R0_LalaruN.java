@@ -11,12 +11,14 @@ public final class LRIG_R0_LalaruN extends Card {
     
     public LRIG_R0_LalaruN()
     {
-        setImageSets("WX25-P2-015", Mask.IGNORE+"PR-227");
+        setImageSets("WX25-P2-015", Mask.IGNORE+"PR-227", "SPDi42-10P");
         
         setOriginalName("ララ・ルー\"N\"");
-        setAltNames("ララルーニュートラル Rararuu Nyuutoraru");
+        setAltNames("ララルーニュートラル Rararuu Nyuutoraru Lalaru N");
         
-        setName("en", "Lalaru \"Neutral\"");
+        setName("en", "Lalaru \"N\"");
+        
+        setName("en_fan", "Lalaru \"Neutral\"");
         
 		setName("zh_simplified", "啦啦·噜“N”");
         setLRIGType(CardLRIGType.LALARU);

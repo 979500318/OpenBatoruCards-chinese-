@@ -13,11 +13,11 @@ public final class LRIG_K0_MyuHatch extends Card {
     {
         setImageSets("WD11-005", "SP12-015","SP20-011","SP34-015","SP35-025", "PR-199",Mask.IGNORE+"PR-230",
                      "WDK13-005", "SPK03-17","SPK04-17","SPK16-3C","SPK18-04","SPK19-03",
-                     "WXDi-P11-023","WX25-P2-027", "SPDi01-66"
+                     "WXDi-P11-023","WX25-P2-027", "SPDi01-66","SPDi42-12P"
         );
         
         setOriginalName("ミュウ＝ハッチ");
-        setAltNames("ミュウハッチ Myuu Hatchi");
+        setAltNames("ミュウハッチ Myuu Hatcchi");
         
         setName("en", "Myu=Hatch");
         

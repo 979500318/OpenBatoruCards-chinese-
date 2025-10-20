@@ -7,7 +7,7 @@ public final class LRIG_W0_MCLIONStandby extends Card {
     
     public LRIG_W0_MCLIONStandby()
     {
-        setImageSets("WXDi-D04-001", "SPDi01-10","SPDi05-03");
+        setImageSets("WXDi-D04-001", "SPDi01-10","SPDi05-03","SPDi42-9P");
         
         setOriginalName("MC.LION-standby");
         setAltNames("エムシーリオンスタンバイ Emu Shii Rion Sutanbai");
