@@ -61,7 +61,7 @@ public final class SIGNI_G1_MidorikoFessonePhantomBeast extends Card {
 
         private ConditionState onConstEffCond()
         {
-            return new TargetFilter().own().SIGNI().withColor(CardColor.GREEN).fromEner().getValidTargetsCount() >= 3 ? ConditionState.OK : ConditionState.BAD;
+            return new TargetFilter().own().withColor(CardColor.GREEN).fromEner().getValidTargetsCount() >= 3 ? ConditionState.OK : ConditionState.BAD;
         }
 
         private void onAutoEff()

@@ -85,12 +85,16 @@ public final class SIGNI_G3_CodeLabyrinthGiroppon extends Card {
 
         private SIGNIZonePositionGroup onConstEff1ModRuleCheck(RuleCheckData data)
         {
-            SIGNIZonePosition zonePosition = SIGNIZonePosition.getOppositeSIGNIPosition(SIGNIZonePosition.getSIGNIPositionByCardLocation(getCardIndex().getLocation()));
-            if(SIGNIZoneRuleCheck.getDataZoneSIGNIPosition(data) != zonePosition && getOppositeSIGNI() == null)
+            SIGNIZonePosition zonePositionOP = SIGNIZonePosition.getSIGNIPositionByCardLocation(getCardIndex().getLocation());
+            if(zonePositionOP != null)
             {
-                SIGNIZonePositionGroup group = new SIGNIZonePositionGroup(SIGNIZonePositionState.DENY);
-                group.setState(zonePosition, SIGNIZonePositionState.ALLOW);
-                return group;
+                SIGNIZonePosition zonePosition = SIGNIZonePosition.getOppositeSIGNIPosition(zonePositionOP);
+                if(zonePosition != null && SIGNIZoneRuleCheck.getDataZoneSIGNIPosition(data) != zonePosition && getOppositeSIGNI() == null)
+                {
+                    SIGNIZonePositionGroup group = new SIGNIZonePositionGroup(SIGNIZonePositionState.DENY);
+                    group.setState(zonePosition, SIGNIZonePositionState.ALLOW);
+                    return group;
+                }
             }
             return new SIGNIZonePositionGroup(SIGNIZonePositionState.IGNORE);
         }
