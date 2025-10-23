@@ -23,13 +23,13 @@ public final class SIGNI_W3_CodeHeartLMusicalNoteAmp extends Card {
         setOriginalName("コードハート　Lオンプアンプ");
         setAltNames("コードハートエルオンプアンプ Koodo Haato Eru Onpuanpu");
         setDescription("jp",
-                "@U $T1：あなたの《MC.LION 3rdVerse-ULT》がアタックしたとき、あなたのデッキの上からカードを５枚見る。その中からスペル１枚を公開し手札に加え、残りを好きな順番でデッキの一番下に置く。\n" +
+                "@U $T1：あなたの《MC.LION 3rdVerse-ULT》がダウンしたとき、あなたのデッキの上からカードを５枚見る。その中からスペル１枚を公開し手札に加え、残りを好きな順番でデッキの一番下に置く。\n" +
                 "@U：このシグニがアタックしたとき、このターンにあなたがスペルを使用していた場合、あなたのルリグ１体を対象とし、%Wを支払ってもよい。そうした場合、それをアップする。"
         );
 
         setName("en", "Code Heart L Musical Note Amp");
         setDescription("en",
-                "@U $T1: When your \"MC.LION 3rd Verse-ULT\" attacks, look at the top 5 cards of your deck. Reveal 1 spell from among them, add it to your hand, and put the rest on the bottom of your deck in any order.\n" +
+                "@U $T1: When your \"MC.LION 3rd Verse-ULT\" is downed, look at the top 5 cards of your deck. Reveal 1 spell from among them, add it to your hand, and put the rest on the bottom of your deck in any order.\n" +
                 "@U: Whenever this SIGNI attacks, if you used a spell this turn, target 1 of your LRIG, and you may pay %W. If you do, up it."
         );
 
@@ -56,7 +56,7 @@ public final class SIGNI_W3_CodeHeartLMusicalNoteAmp extends Card {
         {
             super(cardId);
 
-            AutoAbility auto1 = registerAutoAbility(GameEventId.ATTACK, this::onAutoEff1);
+            AutoAbility auto1 = registerAutoAbility(GameEventId.DOWN, this::onAutoEff1);
             auto1.setCondition(this::onAutoEff1Cond);
             auto1.setUseLimit(UseLimit.TURN, 1);
 

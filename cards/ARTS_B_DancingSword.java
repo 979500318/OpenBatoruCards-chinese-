@@ -85,7 +85,7 @@ public final class ARTS_B_DancingSword extends Card {
                 new OverrideAction(GameEventId.DAMAGE, OverrideScope.GLOBAL, OverrideFlag.NON_MANDATORY | OverrideFlag.PRESERVE_SOURCES, this::onAttachedConstEffModOverrideCond, this::onAttachedConstEffModOverrideHandler))
             );
             attachedConst.setCondition(this::onAttachedConstEffCond);
-            GFXZoneWall.attachToAbility(attachedConst, new GFXZoneWall(getOwner(), CardLocation.LIFE_CLOTH, "LRIG", new int[]{50,150,205}));
+            GFXZoneWall.attachToAbility(attachedConst, new GFXZoneWall(getOwner(), CardLocation.LIFE_CLOTH, "SIGNI", new int[]{50,150,205}));
             attachPlayerAbility(getOwner(), attachedConst, ChronoDuration.turnEnd());
             
             if(getAbility().isRecollectFulfilled())
